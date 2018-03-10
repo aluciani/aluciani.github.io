@@ -5,8 +5,8 @@
     <description>Learning to reduce the data centre to lines of code - through Infrastrcuture as code becoming cloud native</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Mar 2018 21:18:42 -0500</pubDate>
-    <lastBuildDate>Fri, 09 Mar 2018 21:18:42 -0500</lastBuildDate>
+    <pubDate>Sat, 10 Mar 2018 10:12:37 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Mar 2018 10:12:37 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -187,9 +187,7 @@
     
       <item>
         <title>How To Be Part of Virtual Design Master Season 5</title>
-        <description>&lt;p&gt;Can you believe it, Virtual Design Master is five years young!&lt;/p&gt;
-
-&lt;p&gt;I can still remember those early days when &lt;a href=&quot;http://discoposse.com/&quot;&gt;Eric&lt;/a&gt;, &lt;a href=&quot;http://vmiss.net/&quot;&gt;Melissa&lt;/a&gt; and I had thoughts about creating some fun way to engage the virtual community throughout the year. Something that would challenge everyone to learn and develop their skillset.&lt;/p&gt;
+        <description>&lt;p&gt;Can you believe it, Virtual Design Master is five years young! I can still remember those early days when &lt;a href=&quot;http://discoposse.com/&quot;&gt;Eric&lt;/a&gt;, &lt;a href=&quot;http://vmiss.net/&quot;&gt;Melissa&lt;/a&gt; and I had thoughts about creating some fun way to engage the virtual community throughout the year. Something that would challenge everyone to learn and develop their skillset.&lt;/p&gt;
 
 &lt;p&gt;At the time, food challenge shows like Top Chef were very popular and we thought what if we could follow a similar model, but instead of surprise food ingredients, we would offer deep technical design challenges.&lt;/p&gt;
 
@@ -228,18 +226,12 @@
 
 &lt;p&gt;Have you watched Virtual Design Master? Has it inspired you to learn and engage the community? Let me know if the comments below and thanks for reading.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 06 May 2017 04:59:45 -0400</pubDate>
-        <link>http://localhost:4000/virtual-design-master-season-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/virtual-design-master-season-5/</guid>
-        
-        <category>vDM</category>
-        
-        <category>VirtualDesignMaster</category>
-        
-        <category>Virtualization</category>
+        <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/virtual-design-master-season-5</link>
+        <guid isPermaLink="true">http://localhost:4000/virtual-design-master-season-5</guid>
         
         
-        <category>Virtual Design Master</category>
+        <category>virtualdesignmaster</category>
         
       </item>
     
@@ -291,22 +283,12 @@
 
 &lt;p&gt;What are some of the ways you use chatbots? Let me know in the comments below and thanks for reading!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 15 Apr 2017 06:25:33 -0400</pubDate>
-        <link>http://localhost:4000/chatbots-hottest-tech/</link>
-        <guid isPermaLink="true">http://localhost:4000/chatbots-hottest-tech/</guid>
-        
-        <category>AI</category>
-        
-        <category>Artificial Intelligence</category>
-        
-        <category>Chatbots</category>
-        
-        <category>Machine Learning</category>
-        
-        <category>ML</category>
+        <pubDate>Sat, 15 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/chatbots-hottest-tech</link>
+        <guid isPermaLink="true">http://localhost:4000/chatbots-hottest-tech</guid>
         
         
-        <category>Chatbot</category>
+        <category>chatbot</category>
         
       </item>
     
