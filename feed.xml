@@ -5,278 +5,512 @@
     <description>Learning to reduce the data centre to lines of code - through Infrastrcuture as code becoming cloud native</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Mar 2018 14:32:24 -0500</pubDate>
-    <lastBuildDate>Fri, 09 Mar 2018 14:32:24 -0500</lastBuildDate>
+    <pubDate>Fri, 09 Mar 2018 21:18:42 -0500</pubDate>
+    <lastBuildDate>Fri, 09 Mar 2018 21:18:42 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>Supercharge Your Workflow With Grunt</title>
-        <description>&lt;p&gt;The Grunt ecosystem is huge and it’s growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn’t already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze. See how to &lt;a href=&quot;http://gruntjs.com/&quot;&gt;get started&lt;/a&gt;.&lt;/p&gt;
+        <title>3 Ways Blockchain Will Make It Into The Enterprise Data Center</title>
+        <description>&lt;p&gt;In the last couple of years cryptocurrency, bitcoin and blockchain have been in the news. Blockchain is usually associated with bitcoin, and many modern day sysadmin have not had to deal with it - but it may be coming to a data center near you in some unexpected ways.&lt;/p&gt;
 
-&lt;p&gt;In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you’ve configured it through a Gruntfile, a task runner can do most of that mundane work for you—and your team—with basically zero effort.&lt;/p&gt;
+&lt;p&gt;Blockchain is a distributed database whereby each party on the network has access to the whole database and its history of transactions, meaning any node can be used to verify all information. Communications on the network are made between peers so that each party maintains their structured version of the chain.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;my-project-name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;s2&quot;&gt;&quot;version&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;0.1.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;s2&quot;&gt;&quot;devDependencies&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;s2&quot;&gt;&quot;grunt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;~0.4.5&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;s2&quot;&gt;&quot;grunt-contrib-jshint&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;~0.10.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;s2&quot;&gt;&quot;grunt-contrib-nodeunit&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;~0.4.1&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;s2&quot;&gt;&quot;grunt-contrib-uglify&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;~0.5.0&quot;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;On the network, each block is attached to its predecessor and continues growing in size as new data blocks are added. Moreover, because of their distributed nature, the blockchains provide no single failure point that can be used by hackers, making the technology more secure for data storage than other traditional structures.&lt;/p&gt;
 
-&lt;p&gt;The easiest way to add Grunt and gruntplugins to an existing &lt;code class=&quot;highlighter-rouge&quot;&gt;package.json&lt;/code&gt; is with the command &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install &amp;lt;module&amp;gt; --save-dev&lt;/code&gt;. Not only will this install &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;module&amp;gt;&lt;/code&gt; locally, but it will automatically be added to the devDependencies section, using a tilde version range.&lt;/p&gt;
+&lt;h2 id=&quot;asset-management-with-blockchain&quot;&gt;Asset management with blockchain&lt;/h2&gt;
+&lt;p&gt;It’s expected that soon, blockchain will distort Capital Markets by democratizing the system and creating ‘super liquidity’ events which people don’t yet comprehend. Apart from IoT that will nametag every physical asset, Blockchain shall be the ledger of a programmable new world.&lt;/p&gt;
 
-&lt;p&gt;For example, this will install the latest version of Grunt in your project folder, adding it to your devDependencies:&lt;/p&gt;
+&lt;p&gt;It would create a system whereby Asset Management in the corporate sector shall focus on exchanging value and not physical things. Additionally, trading instruments created by bankers will be faced out as businesses trade value and everything won’t be measured regarding cash.&lt;/p&gt;
 
-&lt;p&gt;Grunt&lt;/p&gt;
+&lt;p&gt;Similarly, the expected lifespan of asset management is going to drastically change as what’s present today has been marked by inefficient computing power and integration. The need to develop corporate opaqueness and workflow will see many data companies adopt blockchain technology in their operations.&lt;/p&gt;
+
+&lt;p&gt;The traditional data flow of Portfolio Design &amp;amp; Creation, Order Management, IBOR, Compliance, Risk Control, and Performance will disappear, replaced by blockchain which will be fully transparent. There would be improved visibility of stored assets, ownership and exchange history. Additionally, creating new asset categories would be more comfortable and issuing them will also be instant.&lt;/p&gt;
+
+&lt;h2 id=&quot;virtualizationwith-blockchain&quot;&gt;Virtualization with blockchain&lt;/h2&gt;
+&lt;p&gt;Today, many data centers are turning to blockchain technology as a method that utilizes virtual record keeping. The network makes use of multiple hardened data centers across the globe which can be used to validate changes to data sets.&lt;/p&gt;
+
+&lt;p&gt;While the number of users gaining access to data through applications isn’t large, they tend to have diversified and unique demands and also require uninterrupted user experience. Blockchain can help internet data centers have efficient network architecture, which will support spikes in massive traffic from their vast number of users.&lt;/p&gt;
+
+&lt;p&gt;The current mainstream north-to-south transmission system, also known as 3-level tree network architecture, isn’t advantageous as it uses a significant amount of network bandwidth and creates latency problems. To address these issues, some of the world’s biggest virtual data centers are adopting the spine-and-leaf network architecture, which is more helpful for transmitting data between servers. It’s a type of blockchain that allows data centers to increase capacity based on their business needs, with reduced initial investment costs.&lt;/p&gt;
+
+&lt;p&gt;While corporate data centers have conventionally focused on data storage and disaster recovery preparation, they don’t always meet the demand for synchronized, multiuser data retrieval. However, with the modern evolving digital market there are more users and data which ultimately piles pressure on data providers to deliver faster network transmissions for a growing number of Web users worldwide. In the era of big data, many data-center operations are moving from storage to real-time analysis and processing of information on demand; all this is made possible through blockchain.&lt;/p&gt;
+
+&lt;h2 id=&quot;capacity-planningwith-blockchain&quot;&gt;Capacity planning with blockchain&lt;/h2&gt;
+&lt;p&gt;Capacity planning involves determining the production capacity required by corporate organizations to meet evolving demands for their data. In this context, design capacity is the total amount of data that a company can process within a specific period.&lt;/p&gt;
+
+&lt;p&gt;Blockchain can be used by maritime carriers and freight forwarders to make instant updates on data processing. Most of these companies need to transfer real-time data. While on the road, rail or waterways, including updating the status of their shipments. Blockchain technology can help overcome the barriers of Electronic Data Interchange (EDI) for intermodal supply chains.&lt;/p&gt;
+
+&lt;p&gt;Through the technology, freight carriers can have instant visibility of demand-pattern development, capacity planning and align service design. Moreover, all players within the network can connect promptly to the logistics ecosystem based on a uniform industry system. Thus transacting and collaborating in a very efficient manner.&lt;/p&gt;
+
+&lt;p&gt;In summary, blockchain will have a significant impact on data centers for its ability to decentralize environments and automate various data center functions.&lt;/p&gt;
+
+&lt;p&gt;What do you think? Is blockchain just a fad or will there be real implications for the technology in the future? Do we need to structure of data centers differently? Can you think of any other applications in the enterprise data center? Share your thoughts in the comments below and thanks for reading.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 11 Feb 2015 03:50:28 -0500</pubDate>
-        <link>http://localhost:4000/supercharge-your-workflow-with-grunt</link>
-        <guid isPermaLink="true">http://localhost:4000/supercharge-your-workflow-with-grunt</guid>
+        <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/3-ways-blockchain-enterprise-data-center</link>
+        <guid isPermaLink="true">http://localhost:4000/3-ways-blockchain-enterprise-data-center</guid>
         
         
-        <category>coding</category>
-        
-        <category>js</category>
+        <category>blockchain</category>
         
       </item>
     
       <item>
-        <title>CSS with Superpowers</title>
-        <description>&lt;p&gt;Sass is completely compatible with all versions of CSS. We take this compatibility seriously, so that you can seamlessly use any available CSS libraries.&lt;/p&gt;
+        <title>How to Accelerate Your Learning Using the Feynman Technique</title>
+        <description>&lt;p&gt;As a process for acquiring new knowledge or skills, learning is at the forefront of success in academia or business. Every field relies on great learners to acquire and advance knowledge, ideas, and skills.&lt;/p&gt;
 
-&lt;p&gt;Sass boasts more features and abilities than any other CSS extension language out there. The Sass Core Team has worked endlessly to not only keep up, but stay ahead.&lt;/p&gt;
-
-&lt;h2 id=&quot;mature&quot;&gt;Mature&lt;/h2&gt;
-&lt;p&gt;Sass has been actively supported for about 8 years by its loving Core&lt;/p&gt;
-
-&lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
-&lt;p&gt;Over and over again, the industry is choosing Sass as the premier CSS extension language.&lt;/p&gt;
-
-&lt;h2 id=&quot;large-community&quot;&gt;Large Community&lt;/h2&gt;
-&lt;p&gt;Sass is actively supported and developed by a consortium of several tech companies and hundreds of developers.&lt;/p&gt;
-
-&lt;h2 id=&quot;frameworks&quot;&gt;Frameworks&lt;/h2&gt;
-&lt;p&gt;There are endless number of frameworks built with Sass. Compass, Bourbon, and Susy just to name a few.&lt;/p&gt;
-
-&lt;p&gt;Dreamcatcher cold-pressed American Apparel, post-ironic Carles Shoreditch craft beer Banksy PBR retro distillery before they sold out freegan asymmetrical kogi. Food truck Schlitz direct trade, deep v ethical yr sriracha mumblecore freegan. Tattooed occupy pork belly, letterpress typewriter cold-pressed viral swag farm-to-table flexitarian. +1 hashtag put a bird on it authentic. 3 wolf moon locavore Vice, normcore actually meggings leggings cornhole brunch. Four loko vinyl trust fund, Intelligentsia wolf Bushwick lo-fi sriracha. Deep v vegan forage selvage.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Feb 2015 03:50:28 -0500</pubDate>
-        <link>http://localhost:4000/css-with-superpowers</link>
-        <guid isPermaLink="true">http://localhost:4000/css-with-superpowers</guid>
-        
-        
-        <category>coding</category>
-        
-        <category>css</category>
-        
-      </item>
-    
-      <item>
-        <title>10 Reasons to travel the world</title>
-        <description>&lt;p&gt;Ask yourself, why not? What is the number one reason you wouldn’t. If the reason you get back is fear, you should just do it.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati doloribus, culpa, et suscipit praesentium incidunt, libero officiis ipsum fugiat odit aperiam commodi unde dignissimos veritatis accusamus molestias iste magni nobis?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/fire.jpg&quot; alt=&quot;Fire image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kale chips bespoke church-key American Apparel flannel pickled. Mlkshk High Life Blue Bottle, leggings gastropub four dollar toast post-ironic fap American Apparel VHS. Cliche cold-pressed single-origin coffee mlkshk retro distillery. 3 wolf moon Tumblr selvage semiotics food truck. Intelligentsia Pitchfork meh sriracha chambray, fanny pack lomo irony fap pickled stumptown. Twee +1 artisan, cred ethical gluten-free 90’s four loko Odd Future cronut small batch organic. Seitan hashtag jean shorts art party messenger bag.&lt;/p&gt;
+&lt;p&gt;As any student knows only too well, excelling in education requires good learning skills, which few people are naturally born with.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Scenester Echo Park tilde&lt;/p&gt;
+  &lt;p&gt;If you can’t explain it simply, you don’t understand it well enough – Albert Einstein&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Locavore brunch kale chips vegan selvage High Life you probably haven’t heard of them before they sold out pork belly. Flexitarian organic wayfarers, cronut food truck bicycle rights drinking vinegar bespoke meditation mustache swag mumblecore semiotics locavore. Whatever kogi readymade, jean shorts pork belly chia distillery wayfarers. Art party single-origin coffee four dollar toast VHS, try-hard hoodie kogi normcore Neutra actually church-key flexitarian swag.&lt;/p&gt;
+&lt;p&gt;However, the use of mental models has gone a long way into turning the average person into a great learner. If you struggle to understand difficult concepts, then you are not alone. Many highly successful people got to where they are by finding creative ways to overcome learning challenges.&lt;/p&gt;
 
+&lt;p&gt;The use of mental models is one of the simplest and most effective ways of mastering a complex subject in no time.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-mental-models&quot;&gt;What Are Mental Models?&lt;/h2&gt;
+&lt;p&gt;Mental models are psychological representations of your thought processes about how the world works. It’s a powerful visualization tool which mentally maps real, imaginary, or hypothetical situations to make sense of how things work or relate to one another.&lt;/p&gt;
+
+&lt;p&gt;Different types of mental models can help you think better, be more creative, solve problems and learn faster. One of the most useful mental models is the Feynman technique. It was created by the brilliant physicist Richard Feynman, whose pioneering work in quantum electrodynamics made a lasting impact on particle physics, quantum computing, and nanotechnology.&lt;/p&gt;
+
+&lt;p&gt;Richard Feynman was one of the most brilliant physicists of all time. He was given the Nobel Prize in 1965 for his work on the interaction of light and matter. Richard Feynman was also a philosopher, eloquent teacher, and a great thinker, whose admirers included Albert Einstein.&lt;/p&gt;
+
+&lt;p&gt;Bill Gates referred to Feynman as “the greatest teacher I never had.” Many others admired his ability to explain complex concepts in a simple and easy to understand manner. Feynman’s lectures were mostly aimed at students with no prior knowledge of physics, using his unique ability to remove the mystery from complex scientific principles.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-feynman-technique&quot;&gt;The Feynman Technique&lt;/h2&gt;
+&lt;p&gt;It is often said that if you cannot explain anything in simple terms, then you do not understand it completely. This is the logic behind the Feynman technique. Anyone can apply this mental model to practically any learning exercise&lt;/p&gt;
+
+&lt;p&gt;The Feynman technique consists of four simple steps as follows:&lt;/p&gt;
+
+&lt;h3 id=&quot;step-1-select-your-concept&quot;&gt;Step 1: Select Your Concept&lt;/h3&gt;
+&lt;p&gt;The first step is to choose the topic or concept that you want to study. Take a blank paper and write the topic at the top of the page.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2-pretend-you-are-explaining-it-to-someone-else&quot;&gt;Step 2: Pretend You Are Explaining It To Someone Else&lt;/h3&gt;
+&lt;p&gt;In the simplest way possible, write down an explanation of the concept as if you are teaching it to a new student. Richard Feynman preferred using an explanation that a five-year-old can understand.&lt;/p&gt;
+
+&lt;p&gt;By doing this, you will have a better understanding of the concept and identify gaps in your learning. This is step will pinpoint areas where you do not have a firm grasp of the concept.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-3-refer-to-your-source-material-whenever-you-get-stuck&quot;&gt;Step 3: Refer To Your Source Material Whenever You Get Stuck&lt;/h3&gt;
+&lt;p&gt;Every time you cannot explain an idea, go back to your reference books or teacher and learn it all over again. Keep doing this until you can sufficiently explain the concept in simple terms.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-4-create-analogies&quot;&gt;Step 4: Create Analogies&lt;/h3&gt;
+&lt;p&gt;If your explanation is too lengthy, wordy, or confusing, create a simpler one or better yet, use analogies. Analogies help explain a concept using examples that are easy to relate to and understand.&lt;/p&gt;
+
+&lt;h2 id=&quot;benefits-of-the-feynman-technique&quot;&gt;Benefits Of The Feynman Technique&lt;/h2&gt;
+
+&lt;p&gt;Learn Faster: The Feynman technique will enable you to simplify complex ideas making it easier to learn difficult subjects faster.&lt;/p&gt;
+
+&lt;p&gt;Be More efficient: Countless students spend hours in the library trying to master complicated concepts without success. This proven technique can help you save time in your studies, reducing the period needed to understand anything.&lt;/p&gt;
+
+&lt;p&gt;Be More Productive: Increasing your learning ability will make you more productive at work or in your studies. You will master new skills and gain knowledge to help you increase your output.&lt;/p&gt;
+
+&lt;p&gt;Be More successful: Achieving higher grades is the first step to success in your career. A stellar academic record can open many doors and help you gain that coveted job position.&lt;/p&gt;
+
+&lt;p&gt;Be a Better communicator: The Feynman technique is indispensable when it comes to explaining difficult concepts to clients, colleagues or students. Possessing this ability makes you a better communicator especially if you are in marketing or leadership.&lt;/p&gt;
+
+&lt;p&gt;The Feynman technique is a useful tool for mastering hard to understand concepts. Its simplicity makes it widely applicable to scientific topics as well as everyday learning challenges. Increase your creativity, productivity, and knowledge by making it your preferred learning tool.&lt;/p&gt;
+
+&lt;p&gt;What study technique’s do you use when getting ready for a IT certification exam? or even getting ready to give a presentation to a local user group. Let me know in the comments below and thanks for reading.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 11 Feb 2015 03:50:28 -0500</pubDate>
-        <link>http://localhost:4000/ten-reasons-to-travel-the-world</link>
-        <guid isPermaLink="true">http://localhost:4000/ten-reasons-to-travel-the-world</guid>
+        <pubDate>Mon, 06 Nov 2017 03:50:28 -0500</pubDate>
+        <link>http://localhost:4000/learning-Feynman-Technique</link>
+        <guid isPermaLink="true">http://localhost:4000/learning-Feynman-Technique</guid>
         
         
-        <category>travel</category>
+        <category>learning</category>
         
-        <category>storytime</category>
+        <category>feynman</category>
         
       </item>
     
       <item>
-        <title>Why React JS Will Change the World</title>
-        <description>&lt;p&gt;React components implement a &lt;code class=&quot;highlighter-rouge&quot;&gt;render()&lt;/code&gt; method that takes input data and returns what to display. This example uses an XML-like syntax called JSX. Input data that is passed into the component can be accessed by &lt;code class=&quot;highlighter-rouge&quot;&gt;render()&lt;/code&gt; via &lt;code class=&quot;highlighter-rouge&quot;&gt;this.props&lt;/code&gt;.&lt;/p&gt;
+        <title>3 Ways To Become The Columbo Of Enterprise IT</title>
+        <description>&lt;p&gt;I’m a big fan of TV shows from the 70s and 80s. Several that stand out for me are Simon and Simon, The Fall Guy and The Rockford Files. One show in &lt;a href=&quot;https://en.wikipedia.org/wiki/Columbo&quot;&gt;particular&lt;/a&gt; that I enjoy is Columbo.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;build/react.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;build/JSXTransformer.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/jsx&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-        &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;h1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;world&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/h1&amp;gt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;,
-&lt;/span&gt;        &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'example'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;For those not familiar with Columbo, he is a Los Angeles homicide detective who solves high profile cases that involve the rich and famous. He is unassuming and often overlooked police detective.&lt;/p&gt;
 
-&lt;h2 id=&quot;want-commonjs&quot;&gt;Want CommonJS?&lt;/h2&gt;
-&lt;p&gt;If you want to use React with browserify, webpack, or another CommonJS-compatible module system, just use the react npm package. In addition, the jsx build tool can be integrated into most packaging systems (not just CommonJS) quite easily.&lt;/p&gt;
+&lt;p&gt;While watching this series, I noticed several traits that I thought could apply to my work. At the time, I was working in enterprise IT, and my role included supporting the entire enterprise stack from desktop to servers.&lt;/p&gt;
 
-&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
-&lt;p&gt;Check out the tutorial and the other examples in the starter kit’s examples directory to learn more.&lt;/p&gt;
+&lt;p&gt;I felt if I modeled these traits, not only would I get better at my job, but my department would also benefit.&lt;/p&gt;
 
-&lt;p&gt;We also have a wiki where the community contributes with workflows, UI-components, routing, data management etc.&lt;/p&gt;
+&lt;p&gt;For those that are unfamiliar with the series, here is a short clip it may just put a smile on your face.&lt;/p&gt;
 
-&lt;p&gt;Good luck, and welcome!&lt;/p&gt;
+&lt;p&gt;So what are the magical qualities I saw in the series? They are more common sense than magic.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Keep asking questions then ask some more&lt;/li&gt;
+  &lt;li&gt;Have all the data before making a judgment&lt;/li&gt;
+  &lt;li&gt;Persevere and never give up&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pretty simple but I think very powerful and something we can all do. I’m sure that there are others you can find in this television series, but for me, these resonated the most.&lt;/p&gt;
+
+&lt;h2 id=&quot;keep-asking-questions-then-ask-some-more&quot;&gt;Keep asking questions then ask some more&lt;/h2&gt;
+
+&lt;p&gt;One of the first things I noticed when watching this show was that Columbo would ask hundreds of questions, some relevant and direct and other’s more abstract and you would wonder “where is he going with those questions”.&lt;/p&gt;
+
+&lt;p&gt;At times, folks would get very frustrated with him, but it was his way of getting everything out in the open and begin to put the pieces together.&lt;/p&gt;
+
+&lt;p&gt;Many of us have had to deal with a server down and when we ask the question “Were any changes made?” Everyone says “no” but if we persist and keep asking, we usually get an answer like “Oh, didn’t Tommy download that and install that new driver”&lt;/p&gt;
+
+&lt;p&gt;Keep asking questions, and when you think you have exhausted your list of questions, think of more and keep asking. In fact, I think Toyota developed the &lt;a href=&quot;https://en.wikipedia.org/wiki/5_Whys&quot;&gt;5 Why’s&lt;/a&gt; technique. The theory is asking why five times will ultimately get you to the cause of an issue.&lt;/p&gt;
+
+&lt;h2 id=&quot;have-all-the-data-before-making-a-judgment&quot;&gt;Have all the data before making a judgment&lt;/h2&gt;
+
+&lt;p&gt;You will notice when Columbo is gathering all his data he writes everything down. People would always ask him if he has formulated a plan yet or discovered who did it, but he would never share his thoughts until he felt he had all the data. People would also suggest a solution, but he would never bite.&lt;/p&gt;
+
+&lt;p&gt;Very similar to working in enterprise IT, folks would often tell you “Oh, it’s the network, or It’s the server without all the data.” Try not to fall into that trap. It’s so easy to reboot a server and mask the real issue. Do your best to collect all the data and when you feel you have enough try to formulate an answer.&lt;/p&gt;
+
+&lt;p&gt;In fact, Columbo would also bounce his thoughts off people involved in the case, might be a good idea to do the same when dealing with folks close to the issue.&lt;/p&gt;
+
+&lt;h2 id=&quot;persevere-and-never-give-up&quot;&gt;Persevere and never give up&lt;/h2&gt;
+
+&lt;p&gt;One thing you will never find is Columbo giving up, I know its a TV show, and he can’t give up but think about it, a case never goes unsolved, nor should an IT issue. Whether mail is slow to a software update going sideways, we should always preserve and do our best to find the cause of a problem.&lt;/p&gt;
+
+&lt;p&gt;I recall being at the office three days straight when we had a Novell 4.11 file server crash, and Yes, I said Novell 4.11 the heyday days of file sharing, and get this, it was running on a Compaq 1500 server.&lt;/p&gt;
+
+&lt;p&gt;Columbo keeps coming back to the issue over and over running through different scenarios until finally, it clicks. I think we can learn a lot from him and become better IT practitioners.&lt;/p&gt;
+
+&lt;p&gt;Are you a fan of TVs shows from the 70s and 80s? Anything we can learn from your favorite shows? Let me know in the comments below and thanks for reading.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/why-react-js-will-change-the-world</link>
-        <guid isPermaLink="true">http://localhost:4000/why-react-js-will-change-the-world</guid>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/columbo-enterprise</link>
+        <guid isPermaLink="true">http://localhost:4000/columbo-enterprise</guid>
         
         
-        <category>coding</category>
-        
-        <category>js</category>
+        <category>blockchain</category>
         
       </item>
     
       <item>
-        <title>Fake It Until You Make It</title>
-        <description>&lt;p&gt;Don’t listen to your critics, most people spend all day talking about what others are doing and no time doing anything themselves.&lt;/p&gt;
+        <title>How To Be Part of Virtual Design Master Season 5</title>
+        <description>&lt;p&gt;Can you believe it, Virtual Design Master is five years young!&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
+&lt;p&gt;I can still remember those early days when &lt;a href=&quot;http://discoposse.com/&quot;&gt;Eric&lt;/a&gt;, &lt;a href=&quot;http://vmiss.net/&quot;&gt;Melissa&lt;/a&gt; and I had thoughts about creating some fun way to engage the virtual community throughout the year. Something that would challenge everyone to learn and develop their skillset.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
+&lt;p&gt;At the time, food challenge shows like Top Chef were very popular and we thought what if we could follow a similar model, but instead of surprise food ingredients, we would offer deep technical design challenges.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in finibus diam, sit amet sollicitudin dui. Praesent erat dui, mattis sed elementum non, molestie et ipsum. Quisque fringilla vitae dolor a lacinia. Integer aliquam arcu non tortor egestas volutpat. Proin vitae pretium purus, a rhoncus sapien. Nam posuere rutrum lorem, eu sagittis ante scelerisque pretium. Morbi fermentum mauris a elit lacinia venenatis. Nunc ut iaculis nunc, sed faucibus nulla. Nunc at massa ut mi varius venenatis et id nibh. Sed molestie nibh sed risus mattis elementum. Ut iaculis, dolor sed consequat efficitur, nisi risus scelerisque dui, at bibendum velit nisi quis risus. Nunc gravida leo ut arcu tempus, et iaculis ex ullamcorper. Maecenas eget dolor diam. Suspendisse dapibus pulvinar tempus.&lt;/p&gt;
+&lt;h2 id=&quot;what-twists-will-melissa-include-this-year&quot;&gt;What twists will Melissa include this year?&lt;/h2&gt;
 
-&lt;p&gt;Vestibulum semper dui risus, ut vestibulum ex vestibulum in. Duis vel placerat augue. Morbi dapibus turpis nisi, eleifend hendrerit ligula congue non. Vestibulum felis velit, vulputate at metus ac, ullamcorper pharetra sapien. Praesent eget nibh scelerisque, scelerisque velit semper, ultrices velit. Nunc luctus quam ut condimentum sodales. Quisque eget eleifend nibh. Donec sit amet metus massa.&lt;/p&gt;
+&lt;p&gt;We also wanted to go one step further; not only did we want to make the competition exciting for the folks participating but also for the folks watching, and cheering on their favorite competitor. That’s where the genius of Melissa and her exceptional storytelling skills made the entire competition unpredictable each week. Complementing Melissa was Eric with his wizardry technical expertise, which made for a lot of fun.&lt;/p&gt;
 
-&lt;p&gt;Quisque sagittis arcu quis mauris consectetur tempus. Etiam id erat pretium, rutrum quam ut, commodo lacus. Proin vitae condimentum odio. Morbi facilisis ligula vitae auctor pretium. Fusce lorem lectus, ultrices sit amet neque ut, condimentum bibendum libero. Mauris cursus neque eros, vel consectetur quam mollis nec. Mauris quis est nec elit euismod condimentum. Vestibulum imperdiet suscipit elit et scelerisque. Vivamus mollis sagittis ante.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/fake-it-until-you-make-it</link>
-        <guid isPermaLink="true">http://localhost:4000/fake-it-until-you-make-it</guid>
-        
-        
-        <category>motivation</category>
-        
-      </item>
-    
-      <item>
-        <title>Its Not Always That Simple</title>
-        <description>&lt;p&gt;If you always do what you’ve always done, you’ll always get what you’ve always had.&lt;/p&gt;
+&lt;p&gt;The storylines help challenge the participants to think outside the box and develop innovative solutions to problems. But more than getting the answer right, it’s all about stretching your thinking, questioning yourself and rapidly learning new skills.&lt;/p&gt;
+
+&lt;p&gt;Many of our participants are system administrators who may not have the chance to participate on a design team or lead a design project. But Virtual Design Master gives them that opportunity, with a vibrant community supporting them throughout the competition.&lt;/p&gt;
+
+&lt;p&gt;One of the main benefits of the contest is, as participants move through the stages, you have an opportunity to review all the design documents produced. Providing these documents was one of our founding goals, to share material so individuals can learn.&lt;/p&gt;
+
+&lt;h2 id=&quot;great-way-to-give-back-to-the-community&quot;&gt;Great way to give back to the community&lt;/h2&gt;
+
+&lt;p&gt;We’ve had many folks join us in season 1-4, many learned a new skill which they brought back to their workplace, whether it’s a technical skill or non-technical like ‘How to produce a design document” or “How to present and field questions from an audience.” They are the stars of the show!&lt;/p&gt;
+
+&lt;p&gt;Now it’s your turn; Season five is just around the corner and what better way to get involved with the virtual community.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do you have a passion for systems design?&lt;/li&gt;
+  &lt;li&gt;Do you have an interest in rapid learning?&lt;/li&gt;
+  &lt;li&gt;Ever wanted to know what a VCDX could be?&lt;/li&gt;
+  &lt;li&gt;Like to win lots and lots of prizes?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now is your chance, consider putting your skills to the test. Virtual Desing Master is an excellent way to develop your skills, and help others in the community learn from your design documents.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Want shows up in what you say, expectation shows up in behaviour&lt;/p&gt;
+  &lt;p&gt;One of the key takeaways for me is the lasting friendships made during the competition.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in finibus diam, sit amet sollicitudin dui. Praesent erat dui, mattis sed elementum non, molestie et ipsum. Quisque fringilla vitae dolor a lacinia. Integer aliquam arcu non tortor egestas volutpat. Proin vitae pretium purus, a rhoncus sapien. Nam posuere rutrum lorem, eu sagittis ante scelerisque pretium. Morbi fermentum mauris a elit lacinia venenatis. Nunc ut iaculis nunc, sed faucibus nulla. Nunc at massa ut mi varius venenatis et id nibh. Sed molestie nibh sed risus mattis elementum. Ut iaculis, dolor sed consequat efficitur, nisi risus scelerisque dui, at bibendum velit nisi quis risus. Nunc gravida leo ut arcu tempus, et iaculis ex ullamcorper. Maecenas eget dolor diam. Suspendisse dapibus pulvinar tempus.&lt;/p&gt;
+&lt;p&gt;Consider joining us for Season five – it’s your time to shine, you have the skill set to compete. Nothing is stopping you from becoming the winner of Virtual Design Master – Season Five, sign up today.&lt;/p&gt;
 
-&lt;p&gt;Vestibulum semper dui risus, ut vestibulum ex vestibulum in. Duis vel placerat augue. Morbi dapibus turpis nisi, eleifend hendrerit ligula congue non. Vestibulum felis velit, vulputate at metus ac, ullamcorper pharetra sapien. Praesent eget nibh scelerisque, scelerisque velit semper, ultrices velit. Nunc luctus quam ut condimentum sodales. Quisque eget eleifend nibh. Donec sit amet metus massa.&lt;/p&gt;
+&lt;p&gt;Register to be a participant on &lt;a href=&quot;http://www.virtualdesignmaster.io/become-a-participant.html&quot;&gt;Virtual Design Master – Season Five&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Quisque sagittis arcu quis mauris consectetur tempus. Etiam id erat pretium, rutrum quam ut, commodo lacus. Proin vitae condimentum odio. Morbi facilisis ligula vitae auctor pretium. Fusce lorem lectus, ultrices sit amet neque ut, condimentum bibendum libero. Mauris cursus neque eros, vel consectetur quam mollis nec. Mauris quis est nec elit euismod condimentum. Vestibulum imperdiet suscipit elit et scelerisque. Vivamus mollis sagittis ante.&lt;/p&gt;
-
-&lt;p&gt;Aenean commodo, massa quis mattis lacinia, mi ipsum vestibulum nisi, ut tincidunt massa erat quis neque. Aliquam volutpat eu ligula a tincidunt. Suspendisse imperdiet, lacus vitae pretium imperdiet, nisi elit efficitur felis, id ullamcorper nulla dolor ac massa. In rutrum eget nisi et maximus. Nam consequat libero et feugiat lobortis. Donec sit amet felis faucibus, egestas enim id, condimentum justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed aliquam, nisl vel volutpat semper, mi lacus tempus ante, hendrerit consequat massa lorem at lacus. Phasellus vel felis scelerisque, consectetur arcu ac, euismod massa.&lt;/p&gt;
+&lt;p&gt;Have you watched Virtual Design Master? Has it inspired you to learn and engage the community? Let me know if the comments below and thanks for reading.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/its-not-always-that-simple</link>
-        <guid isPermaLink="true">http://localhost:4000/its-not-always-that-simple</guid>
+        <pubDate>Sat, 06 May 2017 04:59:45 -0400</pubDate>
+        <link>http://localhost:4000/virtual-design-master-season-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/virtual-design-master-season-5/</guid>
+        
+        <category>vDM</category>
+        
+        <category>VirtualDesignMaster</category>
+        
+        <category>Virtualization</category>
         
         
-        <category>motivation</category>
+        <category>Virtual Design Master</category>
         
       </item>
     
       <item>
-        <title>Stop Thinking And Start Doing</title>
-        <description>&lt;p&gt;Get out of your head. Every good decision starts with a momment of action. What are you going to do today!&lt;/p&gt;
+        <title>Chatbots: The Hottest Thing In Tech Right Now</title>
+        <description>&lt;p&gt;Back in 2010, when Apple unveiled the virtual assistant &lt;a href=&quot;https://en.wikipedia.org/wiki/Siri&quot;&gt;Siri&lt;/a&gt; as a standalone app, few people could have predicted the impact chatbots will have in the years to come. At the time, Siri was something to poke fun at, especially in its feeble attempts to comprehend speech commands.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in finibus diam, sit amet sollicitudin dui. Praesent erat dui, mattis sed elementum non, molestie et ipsum. Quisque fringilla vitae dolor a lacinia. Integer aliquam arcu non tortor egestas volutpat. Proin vitae pretium purus, a rhoncus sapien. Nam posuere rutrum lorem, eu sagittis ante scelerisque pretium. Morbi fermentum mauris a elit lacinia venenatis. Nunc ut iaculis nunc, sed faucibus nulla. Nunc at massa ut mi varius venenatis et id nibh. Sed molestie nibh sed risus mattis elementum. Ut iaculis, dolor sed consequat efficitur, nisi risus scelerisque dui, at bibendum velit nisi quis risus. Nunc gravida leo ut arcu tempus, et iaculis ex ullamcorper. Maecenas eget dolor diam. Suspendisse dapibus pulvinar tempus.&lt;/p&gt;
+&lt;p&gt;A lot has changed since then. Tremendous advances in machine learning, artificial intelligence and messaging have combined to make chatbots the hottest tech buzzword for 2017. Tech giants, notably Facebook and Amazon are lauding chatbots as the next big thing. Despite the well-publicized missteps of Microsoft’s Tay, the best chatbots are set to change the way we interact with technology dramatically.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/walk.jpg&quot; alt=&quot;walk&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-are-chatbots&quot;&gt;What Are Chatbots?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/water.jpg&quot; alt=&quot;water&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Chatbots are computer applications designed to simulate conversations with users by using artificial intelligence. Also known as conversational interfaces, they are a service that interacts with customers mainly via text but also through voice inputs and image recognition. Chatbots have become popular as a means of helping clients achieve a particular goal. For example, you may use a chatbot to order a taxi, buy a pizza or solve problems with your internet service.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/woods.jpg&quot; alt=&quot;woods&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;how-do-chatbots-work&quot;&gt;How Do Chatbots Work?&lt;/h2&gt;
 
-&lt;p&gt;Vestibulum semper dui risus, ut vestibulum ex vestibulum in. Duis vel placerat augue. Morbi dapibus turpis nisi, eleifend hendrerit ligula congue non. Vestibulum felis velit, vulputate at metus ac, ullamcorper pharetra sapien. Praesent eget nibh scelerisque, scelerisque velit semper, ultrices velit. Nunc luctus quam ut condimentum sodales. Quisque eget eleifend nibh. Donec sit amet metus massa.&lt;/p&gt;
+&lt;p&gt;There are two major types of chatbots. The simplest are those that respond to specific commands. These are based on predetermined rules and are not intelligent enough to understand human speech. However, they can be smart enough to help you carry out simple tasks such as ordering a taxi. If you say the wrong thing, an unintelligent chatbot won’t understand you. Such chatbots have their limitations and are only as smart as they are programmed to be.&lt;/p&gt;
 
-&lt;p&gt;Quisque sagittis arcu quis mauris consectetur tempus. Etiam id erat pretium, rutrum quam ut, commodo lacus. Proin vitae condimentum odio. Morbi facilisis ligula vitae auctor pretium. Fusce lorem lectus, ultrices sit amet neque ut, condimentum bibendum libero. Mauris cursus neque eros, vel consectetur quam mollis nec. Mauris quis est nec elit euismod condimentum. Vestibulum imperdiet suscipit elit et scelerisque. Vivamus mollis sagittis ante.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Aenean commodo, massa quis mattis lacinia, mi ipsum vestibulum nisi, ut tincidunt massa erat quis neque. Aliquam volutpat eu ligula a tincidunt. Suspendisse imperdiet, lacus vitae pretium imperdiet, nisi elit efficitur felis, id ullamcorper nulla dolor ac massa. In rutrum eget nisi et maximus. Nam consequat libero et feugiat lobortis. Donec sit amet felis faucibus, egestas enim id, condimentum justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed aliquam, nisl vel volutpat semper, mi lacus tempus ante, hendrerit consequat massa lorem at lacus. Phasellus vel felis scelerisque, consectetur arcu ac, euismod massa.&lt;/p&gt;
+&lt;p&gt;The best chatbots use artificial intelligence, machine learning, and pattern recognition to decode human speech. Thanks to Natural Language Processing, they not only understand specific commands but human speech as well. These types of chatbots get smarter by learning from actual human-like conversations with people.&lt;/p&gt;
 
+&lt;p&gt;Chatbots are usually installed on a website, in your favorite apps or within messaging apps such as WhatsApp.&lt;/p&gt;
+
+&lt;h2 id=&quot;thanks-to-messaging-chatbots-are-king&quot;&gt;Thanks to Messaging, Chatbots Are King&lt;/h2&gt;
+
+&lt;p&gt;A few years back, social media platforms such as Facebook, Twitter, and Instagram ruled the Internet. Every business had to build a presence on these sites to interact and engage with customers. Although social media is still vital for business, messaging apps such as WhatsApp, Telegram, Skype, Wechat, and Kik have become more popular.&lt;/p&gt;
+
+&lt;p&gt;Since we spend more time chatting, it’s only natural to expect companies to incorporate chat into their customer service. Rather than downloading an app for every service we need, such as hailing a taxi, booking a flight, checking the weather or shopping for clothes, we can now just text a chatbot from within a messenger app such as Facebook or Kik. In this regard, chatbots can replace apps if integrated with your favorite messaging app.&lt;/p&gt;
+
+&lt;h2 id=&quot;benefits-of-using-chatbots-for-business&quot;&gt;Benefits of Using Chatbots For Business&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-better-customer-service&quot;&gt;1. Better Customer Service&lt;/h3&gt;
+
+&lt;p&gt;Chatbots are the biggest innovation in customer service ever since businesses created web portals for customers to serve themselves. Email and live chat may have increased the interaction between firms and clients. However, chatbots are available 24 hours a day and will interact with customers in the same way a human would. Since most customer queries do not require human intervention, chatbots save you money by automating your customer service. You can now put an end to automated email replies and unavailable live chat services.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-greater-interaction-using-real-language&quot;&gt;2. Greater Interaction Using Real Language&lt;/h3&gt;
+
+&lt;p&gt;One of the reasons chatbots may herald the end of apps is that they speak the same language as the user. The language used by apps to interact with customers is frankly, not engaging or friendly. Apps are limited to commands such as “Log In,” “Download,” “or” Exit.” Chatbots can use more human language such as “please,” “how is your day ” or ” “how can we help.” By speaking to the customer in their language, chatbots foster greater engagement and satisfaction. Furthermore, you can add your personality and brand identity to your chatbot to make it speak to your customers just like you would.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-chatbots-operate-where-your-customers-are&quot;&gt;3. Chatbots Operate Where Your Customers Are&lt;/h3&gt;
+
+&lt;p&gt;Your customers need not visit your website or download your app to find you. Chatbots are easily incorporated into your client’s favorite messaging app. The simple text-driven interface of chatbots also makes them much easier to use than individual apps. As the popularity of messaging continues to overshadow social media, chatbots are the best way to go where your customers are spending most of their time.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-chatbots-are-easy-to-build&quot;&gt;4. Chatbots Are Easy To Build&lt;/h3&gt;
+
+&lt;p&gt;Building a chatbot is cheaper and easier than developing a cross-platform app. Ready-made software and easy to use chatbot templates are available from Facebook, Microsoft, and other companies. Depending on the uses of your chatbot and the size of your firm, creating a new chatbot can be done in a few days.&lt;/p&gt;
+
+&lt;p&gt;Businesses stand to benefit immensely by adopting the best chatbots into their marketing, customer care, and advertising strategies. This new, increasingly intelligent and highly interactive feature is no longer a sci-fi dream, but the new reality for businesses.&lt;/p&gt;
+
+&lt;p&gt;What are some of the ways you use chatbots? Let me know in the comments below and thanks for reading!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/stop-thinking-and-start-doing</link>
-        <guid isPermaLink="true">http://localhost:4000/stop-thinking-and-start-doing</guid>
+        <pubDate>Sat, 15 Apr 2017 06:25:33 -0400</pubDate>
+        <link>http://localhost:4000/chatbots-hottest-tech/</link>
+        <guid isPermaLink="true">http://localhost:4000/chatbots-hottest-tech/</guid>
+        
+        <category>AI</category>
+        
+        <category>Artificial Intelligence</category>
+        
+        <category>Chatbots</category>
+        
+        <category>Machine Learning</category>
+        
+        <category>ML</category>
         
         
-        <category>motivation</category>
-        
-        <category>storytime</category>
+        <category>Chatbot</category>
         
       </item>
     
       <item>
-        <title>A Great Story Never Told</title>
-        <description>&lt;p&gt;I’ve never told this to anyone. Sit yourself down and strap yourself in, you will experience some turbulence before you reach a steady altitude.&lt;/p&gt;
+        <title>vCommunity Fun in Vienna This Week At .NEXT</title>
+        <description>&lt;p&gt;This weekend I’ll be traveling to Vienna for the Nutanix .NEXT conference. I am super excited to get the chance to meet many folks that are part of the vCommunity. It’s not often I get the opportunity to go to Europe, so this will be special.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
+&lt;p&gt;.NEXT in Vienna is our first European event and it’s sold out. We have a great lineup of guest speakers along with many Nutanix folks who are looking forward to talking about the changes happening in our data centers and the enterprise cloud.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
+&lt;p&gt;Some of the guest speakers I am keen on hearing from&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/iceland.jpg&quot; alt=&quot;iceland&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Nassim Nicholas Taleb, Researcher, Author, Professor – author of books such as The Black Swan, Fooled by Randomness, and Antifragile&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
+&lt;p&gt;Kate Russell, Journalist, reporter, and author – has been writing about technology and the Internet since 1995&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
+&lt;p&gt;Dr. Arthur M. Langer, Director of the Center for Technology Management, Columbia University&lt;/p&gt;
 
+&lt;p&gt;Another aspect of the event that is important to me is building personal relationships with the vCommunity. It’s these personal relationships that make our vCommunity so special. Social media has made the world smaller, but you can’t replace the face time you can get with people you meet at these events.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-power-of-the-vcommunity-11-does-equal-3&quot;&gt;The power of the vCommunity; 1+1 does equal 3&lt;/h2&gt;
+&lt;p&gt;I always do my best to be accessible at large conferences, especially when you meeting someone new. My goal is to meet at least 100 new people at .NEXT, hope that sounds like a reasonable number. We will have a community lounge where I expect to chat and engage with many folks.&lt;/p&gt;
+
+&lt;p&gt;As is the case, in the vCommunity we all know each other, but I always enjoy that moment when folks introduce themselves, then quickly follow up with their Twitter handle. It’s at that instant you see the light in their eye’s and you get the ‘Yes; Hi, pleased to meet you in person finally.’&lt;/p&gt;
+
+&lt;p&gt;Let’s have fun in Vienna, vCommunity, take the time to meet new people and learn a whole lot about simplifying your data center with the enterprise cloud. You can also follow activities on Twitter by following Nutanix or following the conference hashtag #NEXTConf.&lt;/p&gt;
+
+&lt;p&gt;Are you attending .NEXT in Vienna, be sure to ping me on Twitter and let’s connect at the event. Do you have any tips to share when attending large conferences? share them in the comments below and thanks for reading.&lt;/p&gt;
+
+&lt;p&gt;Oh, one thing I need to remember to bring is a European power converter – fingers crossed I don’t forget, but I know that’s where the power of the community will help!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/a-great-story-never-told</link>
-        <guid isPermaLink="true">http://localhost:4000/a-great-story-never-told</guid>
+        <pubDate>Sat, 05 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/vcommunity-nextconf-vienna</link>
+        <guid isPermaLink="true">http://localhost:4000/vcommunity-nextconf-vienna</guid>
         
         
-        <category>storytime</category>
-        
-        <category>life</category>
-        
-        <category>journey</category>
+        <category>productivity</category>
         
       </item>
     
       <item>
-        <title>You Dont Have To Be Great To Get Started</title>
-        <description>&lt;p&gt;It was a cold December morning, as I sat out on my porch I decided today was the day.&lt;/p&gt;
+        <title>Microsoft Teams Closing the Gap With Slack</title>
+        <description>&lt;p&gt;Did Microsoft just launch a Slack competitor? You bet they did, and it’s only the beginning as Microsoft leverages their extensive Office 365 install base.&lt;/p&gt;
 
-&lt;p&gt;Dreamcatcher cold-pressed American Apparel, post-ironic Carles Shoreditch craft beer Banksy PBR retro distillery before they sold out freegan asymmetrical kogi. Food truck Schlitz direct trade, deep v ethical yr sriracha mumblecore freegan. Tattooed occupy pork belly, letterpress typewriter cold-pressed viral swag farm-to-table flexitarian. +1 hashtag put a bird on it authentic. 3 wolf moon locavore Vice, normcore actually meggings leggings cornhole brunch. Four loko vinyl trust fund, Intelligentsia wolf Bushwick lo-fi sriracha. Deep v vegan forage selvage.&lt;/p&gt;
+&lt;p&gt;Microsoft Teams was announced on November 4 and it’s what Microsoft is describing as a chat-based workspace in Office 365. My understanding is that this is in preview at the moment, and it’s expected to be available first quarter in 2017.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/view.jpg&quot; alt=&quot;view&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It looks like they are going head to head with Slack. Although Slack does have the lead, don’t count out Microsoft (… remember Netscape). Adding this feature to the user base for Office 365 will certainly help get them closer to the leader.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
+&lt;h2 id=&quot;looking-for-threaded-chats-we-got-it&quot;&gt;Looking for threaded chats? We got it&lt;/h2&gt;
+&lt;p&gt;One difference between Teams and Slack – Threaded chat. That is one thing I hear from folks who use Slack a lot, and how it should have threaded conversations. Also, something that I’d like to see as well.&lt;/p&gt;
 
-&lt;p&gt;Dreamcatcher cold-pressed American Apparel, post-ironic Carles Shoreditch craft beer Banksy PBR retro distillery before they sold out freegan asymmetrical kogi. Food truck Schlitz direct trade, deep v ethical yr sriracha mumblecore freegan. Tattooed occupy pork belly, letterpress typewriter cold-pressed viral swag farm-to-table flexitarian. +1 hashtag put a bird on it authentic. 3 wolf moon locavore Vice, normcore actually meggings leggings cornhole brunch. Four loko vinyl trust fund, Intelligentsia wolf Bushwick lo-fi sriracha. Deep v vegan forage selvage.&lt;/p&gt;
+&lt;p&gt;Teams (preview and final) will be available to Office 365 commercial customers with one of the following plans: Business Essentials, Business Premium, and Enterprise E1, E3, and E5. It’s also available on Windows, Mac, Android, iOS and the Web.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
+&lt;h2 id=&quot;work-less-do-more-with-microsoft-flow&quot;&gt;Work less, do more with Microsoft Flow&lt;/h2&gt;
+&lt;p&gt;Microsoft has also recently taken on IFTTT with their version called Flow – Work Less, Do More. Which help you create automated workflows apps and services. You can also download the mobile app, in fact, if you do a search on Microsoft in the app store, it may surprise you just what they have available, especially the items from Microsoft Research.&lt;/p&gt;
 
+&lt;p&gt;It will be interesting to watch as Teams picks up steam. Are you a Slack user, what are your thoughts on Microsoft entering this market? Are threaded conversations important to you? Let me know your thoughts in the comments below, thanks for reading.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/you-dont-have-to-be-great-to-get-started</link>
-        <guid isPermaLink="true">http://localhost:4000/you-dont-have-to-be-great-to-get-started</guid>
+        <pubDate>Fri, 04 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/microsoft-teams-slack</link>
+        <guid isPermaLink="true">http://localhost:4000/microsoft-teams-slack</guid>
         
         
-        <category>motivation</category>
+        <category>productivity</category>
         
-        <category>leadership</category>
+      </item>
+    
+      <item>
+        <title>Remove Distractions When Reading Online with Instapaper</title>
+        <description>&lt;p&gt;Two of my favorite tools for distraction free reading online are Safari Reader and Instapaper. At the moment it’s a 60/40 split for me, as my primary browser is Safari and it’s just so easy to use.&lt;/p&gt;
+
+&lt;p&gt;But don’t dismiss Instapaper just yet, there are several features and a recent announcement that have folks excited about it, but more on that later.&lt;/p&gt;
+
+&lt;p&gt;I enjoy the ‘pure’ feeling you get when reading on a Kindle, for example, no ads, no popups, no sidebar information that may catch your attention and pull you away from the article in front of you.&lt;/p&gt;
+
+&lt;p&gt;Most of the time when I want to read something and focus on it, I click the Safari Reader view which strips out everything from the web page except for the content and images related to the content. The reading experience becomes enjoyable again without the distraction; we have enough of those already.&lt;/p&gt;
+
+&lt;p&gt;You can also set a preferred font and text size when going to Reader view. Another cool thing about Reader view is that it’s available on iOS. Reader view is not a replacement for surfing but rather a way to read an individual page.&lt;/p&gt;
+
+&lt;h2 id=&quot;save-on-toner-when-printing&quot;&gt;Save on toner when printing?&lt;/h2&gt;
+&lt;p&gt;I will admit that when I need to print a page, and that’s not often, I switch to Reader view and then print. Printing using Reader view saves on toner, as I only print out the relevant material and not the ads, etc.&lt;/p&gt;
+
+&lt;p&gt;My other favorite tool for distraction free reading is Instapaper. When I am in a hurry or on the go, I usually clip and send my web page to Instapaper for reading at a later time. I then pick up my tablet or phone and being reading without all the clutter.&lt;/p&gt;
+
+&lt;p&gt;One thing to note, sometimes some images may not get included in the new rendering, but I suspect that has something to do with the original website itself.&lt;/p&gt;
+
+&lt;p&gt;I love both Instapaper and Safari Reader view – they both serve the same purpose of presenting the content in an enjoyable way to read. But wait, with Instapaper you get more!&lt;/p&gt;
+
+&lt;p&gt;Instapaper is available as a free or paid version, which they called Premium. The premium version offered several nice features that extended the product. But…&lt;/p&gt;
+
+&lt;h2 id=&quot;instapaper-premium-now-free-for-everyone&quot;&gt;Instapaper premium now free for everyone&lt;/h2&gt;
+&lt;p&gt;Good news! On Nov 1, Instapaper announced that they are offering the Premium version for free. I suspect this has to do with the recent acquisition of Instapaper by Pinterest.&lt;/p&gt;
+
+&lt;p&gt;Either way, this is great news for folks who love the product and a way to increase the adoption. Some of the features offered to everyone;&lt;/p&gt;
+
+&lt;p&gt;Full-text search for all articles
+Unlimited Notes
+Text-to-speech playlists
+Unlimited speed reading
+“Send to Kindle” via bookmarklet and mobile apps
+Kindle Digests of up to 50 articles&lt;/p&gt;
+
+&lt;p&gt;If you haven’t tried Instapaper, I suggest you give it a go, and I think you’ll enjoy it. It’d be nice if they could have Reader view in Google Chrome or even add that feature to Instapaper. That way you can read the article and if you decide to save for later, just hit a button.&lt;/p&gt;
+
+&lt;p&gt;There is another product called Readability that I used in the past (which has recently shutdown), but I find Safari Reader view and Instapaper work for me.&lt;/p&gt;
+
+&lt;p&gt;If you’ve tried Instapaper or Safari Reader, I’d love to hear about it in the comments below. If you use something similar, I’d also like to hear about it. Thanks for reading.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/remove-distractions-instapaper</link>
+        <guid isPermaLink="true">http://localhost:4000/remove-distractions-instapaper</guid>
         
-        <category>journey</category>
+        
+        <category>productivity</category>
+        
+      </item>
+    
+      <item>
+        <title>How To Kanban The Easy Way, Use Trello</title>
+        <description>&lt;p&gt;I’ve written about Kanban in the past, but you wouldn’t know it since my WordPress site was wiped clean and I lost all my material. Of course, that just sets the stage for another blog post during this month on ‘How to backup your WordPress site.”&lt;/p&gt;
+
+&lt;p&gt;For those that are unfamiliar with Kanban, it’s pretty simple. Kanban is a visual display of work. It’s typically laid out on a board that everyone can see. It’s also broken out into categories that help map out the value stream.&lt;/p&gt;
+
+&lt;p&gt;Most Kanban boards have a ‘backlog’ state of items you need to address. A ‘Ready’ state, items that have been pulled in from backlog. A ‘To Do’ state, these are the tasks you are currently working on and finally a ‘Done’ state, where you place completed items.&lt;/p&gt;
+
+&lt;p&gt;You can get advanced with your boards like including a ‘waiting for’ state’ with is a helpful reminder to follow up and where you can visualize potential delays.&lt;/p&gt;
+
+&lt;h2 id=&quot;visualize-your-work-and-limit-your-wip&quot;&gt;Visualize your work and limit your (WIP)&lt;/h2&gt;
+&lt;p&gt;I am no expert at Kanban, but at the same time, it’s so simple that anyone can do it. You need to be aware of two rules with Kanban&lt;/p&gt;
+
+&lt;p&gt;Visualize your work&lt;br /&gt;
+Limit your work in progress (WIP)&lt;/p&gt;
+
+&lt;p&gt;If you can master those two items, I think you are on your way to getting control of the tasks you are facing and being more efficient with your time and energy.&lt;/p&gt;
+
+&lt;p&gt;Oh and don’t think limiting your work in progress means that you are doing less work, it helps focus on the work at hand.&lt;/p&gt;
+
+&lt;p&gt;I’ve mentioned my setup at home in the past.  I used large post-it notes called Big Pads up on the wall. I have two big pads, one which holds my backlog and the other that contains the states of play, for example ready, to do, done and waiting for.&lt;/p&gt;
+
+&lt;p&gt;Add each task on the board with smaller post-it notes and pull them along to the different category.&lt;/p&gt;
+
+&lt;h2 id=&quot;trello-is-made-for-kanban&quot;&gt;Trello is made for Kanban&lt;/h2&gt;
+&lt;p&gt;Now that was then, in today’s world software is king. I’ve transitioned to using some very cool tools online. At the moment my favorite tool for Kanban is Trello.&lt;/p&gt;
+
+&lt;p&gt;Trello has impressed me with how easy it is to use; the capabilities included in the product and how it stays in sync across all of my devices.&lt;/p&gt;
+
+&lt;p&gt;Trello is free so give it a try I think you’ll like it and there are tons of YouTube video to help you get started and find out how others are using it to be effective.&lt;/p&gt;
+
+&lt;h2 id=&quot;power-ups-boost-the-power-of-trello&quot;&gt;Power-Ups boost the power of Trello&lt;/h2&gt;
+&lt;p&gt;Trello also have what they call Power-Ups which are essentially integrations with other platforms. This is where you can really extend the power of Trello. One in particular I am interested in trying is the Burndown charts. These are typically used in sprint tracking but can help provide insights on backlog.&lt;/p&gt;
+
+&lt;p&gt;There are other software products and two that are top of mind, and you might find useful are LearnKit, Microsoft Planner and Kanbanize.&lt;/p&gt;
+
+&lt;p&gt;I want to highlight a recent entry into this space. I think it speaks to this growing market and that’s Microsoft Planner. It’s part of the Office 365 subscription if you have the following plans Office 365 Enterprise E1–E5, Business Essentials, Premium and Education subscription plans.&lt;/p&gt;
+
+&lt;p&gt;I would say it’s still ‘early days’ with Microsoft Planner. I’m sure they have a roadmap of features that they will be pushing out. I’m for one who is looking forward to that, especially a mobile app.&lt;/p&gt;
+
+&lt;p&gt;I encourage you to try out the products I mentioned. If you already use anyone of these products, I would love to hear about it in the comments below.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/Kanban-Easy-Way-Use-Trello</link>
+        <guid isPermaLink="true">http://localhost:4000/Kanban-Easy-Way-Use-Trello</guid>
+        
+        
+        <category>productivity</category>
+        
+        <category>trello</category>
+        
+        <category>kanban</category>
+        
+      </item>
+    
+      <item>
+        <title>How The 12 Week Year is The New 12 Month Year</title>
+        <description>&lt;p&gt;I was never good at book reviews. I think it’s because I had a tendency always to go into details about the book instead of giving the reader an overview of what to expect from the book. So with that disclaimer, I will do my best in this review on achieving your goals.&lt;/p&gt;
+
+&lt;p&gt;I recently read a book titled – &lt;a href=&quot;https://tr.im/1SllN&quot;&gt;The 12 Week Year&lt;/a&gt;, Get more done in 12 weeks than other do in 12 months by Brian P. Moran and Michael Lennington. Needless to say, the title caught my attention and interest.&lt;/p&gt;
+
+&lt;p&gt;The idea behind the book is that the one factor that is holding people back from achieving their potential is not a lack of knowledge, intellect or information. But rather the ability to execute, the capacity to close the execution gap.&lt;/p&gt;
+
+&lt;h2 id=&quot;achieve-your-goals-one-week-at-a-time&quot;&gt;Achieve your goals one week at a time&lt;/h2&gt;
+&lt;p&gt;Essentially you are redefining your year as 12 weeks, followed by another 12 weeks, etc. Each 12 weeks stands on its own. Recall that end of year push, well that is now happening every 12 weeks. Thinking in terms of 12 week periods helps refocus your thoughts and makes each week count.&lt;/p&gt;
+
+&lt;p&gt;Start with a vision of what you want to accomplish, then break down your 12-week plan into a weekly plan that will drive your daily actions and outcomes.&lt;/p&gt;
+
+&lt;p&gt;You can complement this program by also using a Kanban board to help visualize the work in progress. I will explore a few other techniques in future blog blogs on driving outcomes, one model, in particular, I’ve been using is Objectives and Key Results (OKR). That’s for another day.&lt;/p&gt;
+
+&lt;h2 id=&quot;measurement-drives-the-execution-process&quot;&gt;Measurement drives the execution process&lt;/h2&gt;
+&lt;p&gt;I like the weekly scorecard, and measuring your result. Measuring captures both leading and lagging indicators. To help provide you with feedback for decision making on what’s working, what is not working.&lt;/p&gt;
+
+&lt;p&gt;The book does talk about setting a vision, which I think is important when developing your short term 12-week plans. It’s important to know what you are working toward.&lt;/p&gt;
+
+&lt;p&gt;The book walks you through developing your 12-week plan and even provides some templates for you to use. I ‘ve tried not to go into too much detail here, as I mentioned at the start of this post. I can get deep in the details at times, so I am just trying to give you a 30,000 feet overview.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-12-week-year-is-a-buy&quot;&gt;The 12 Week Year is a Buy&lt;/h2&gt;
+&lt;p&gt;I would recommend this book and would also be interested to hear from you, if you have read the book. What are your thoughts or if there is a productivity book that you read that you think the community could benefit from. Let me know in the comments below and thanks for reading.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/12-Week-Year</link>
+        <guid isPermaLink="true">http://localhost:4000/12-Week-Year</guid>
+        
+        
+        <category>learning</category>
+        
+        <category>productivity</category>
         
       </item>
     
