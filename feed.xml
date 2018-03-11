@@ -5,8 +5,8 @@
     <description>Learning to reduce the data centre to lines of code</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Mar 2018 20:14:25 -0500</pubDate>
-    <lastBuildDate>Sat, 10 Mar 2018 20:14:25 -0500</lastBuildDate>
+    <pubDate>Sun, 11 Mar 2018 16:07:25 -0400</pubDate>
+    <lastBuildDate>Sun, 11 Mar 2018 16:07:25 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -245,40 +245,85 @@
     
       
       <item>
-        <title>vCommunity Fun in Vienna This Week At .NEXT</title>
-        <description>&lt;p&gt;This weekend I’ll be traveling to Vienna for the Nutanix .NEXT conference. I am super excited to get the chance to meet many folks that are part of the vCommunity. It’s not often I get the opportunity to go to Europe, so this will be special.&lt;/p&gt;
+        <title>Mind Mapping : A Simple, Versatile And Yet Powerful Productivity Tool</title>
+        <description>&lt;p&gt;Developed in the 70s by the British psychologist, author, and public speaker &lt;a href=&quot;https://en.wikipedia.org/wiki/Tony_Buzan&quot;&gt;Tony Buzan&lt;/a&gt;, mind mapping is a great technique for increasing your productivity. Building a mind map is a simple way of turning ideas in your mind into a graphic representation.&lt;/p&gt;
 
-&lt;p&gt;.NEXT in Vienna is our first European event and it’s sold out. We have a great lineup of guest speakers along with many Nutanix folks who are looking forward to talking about the changes happening in our data centers and the enterprise cloud.&lt;/p&gt;
+&lt;p&gt;Mind mapping has been used by millions of people worldwide to visualize concepts, capture ideas, set goals and improve time management for greater success. As a visualization and organizational technique, mind mapping is useful for managing projects, developing memory and creativity.&lt;/p&gt;
 
-&lt;p&gt;Some of the guest speakers I am keen on hearing from&lt;/p&gt;
+&lt;h2 id=&quot;what-is-mind-mapping&quot;&gt;What is Mind Mapping?&lt;/h2&gt;
 
-&lt;p&gt;Nassim Nicholas Taleb, Researcher, Author, Professor – author of books such as The Black Swan, Fooled by Randomness, and Antifragile&lt;/p&gt;
+&lt;p&gt;A mind map is a highly visual form of taking notes, which allows you to capture information by using colors, images, and words. It’s a like a web of to-do lists that offers an overview of any topic with its related complex information. The visual picture drawn by a mind map helps you to understand and create new ideas as well as to identify new connections between them.&lt;/p&gt;
 
-&lt;p&gt;Kate Russell, Journalist, reporter, and author – has been writing about technology and the Internet since 1995&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Dr. Arthur M. Langer, Director of the Center for Technology Management, Columbia University&lt;/p&gt;
+&lt;p&gt;Mind mapping is, therefore, a visual representation of information that has a central idea with connected branches of related topics. This technique helps you to map your thoughts by using keywords to trigger associations and spark new ideas.&lt;/p&gt;
 
-&lt;p&gt;Another aspect of the event that is important to me is building personal relationships with the vCommunity. It’s these personal relationships that make our vCommunity so special. Social media has made the world smaller, but you can’t replace the face time you can get with people you meet at these events.&lt;/p&gt;
+&lt;p&gt;Mind mapping may be used as a weekly planner, study guide or as a visually rich project outline to help you remain organized.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-power-of-the-vcommunity-11-does-equal-3&quot;&gt;The power of the vCommunity; 1+1 does equal 3&lt;/h2&gt;
-&lt;p&gt;I always do my best to be accessible at large conferences, especially when you meeting someone new. My goal is to meet at least 100 new people at .NEXT, hope that sounds like a reasonable number. We will have a community lounge where I expect to chat and engage with many folks.&lt;/p&gt;
+&lt;h2 id=&quot;how-to-build-a-mind-map&quot;&gt;How To Build A Mind Map&lt;/h2&gt;
 
-&lt;p&gt;As is the case, in the vCommunity we all know each other, but I always enjoy that moment when folks introduce themselves, then quickly follow up with their Twitter handle. It’s at that instant you see the light in their eye’s and you get the ‘Yes; Hi, pleased to meet you in person finally.’&lt;/p&gt;
+&lt;p&gt;One significant advantage of mind maps is that they are very simple to create. Although there are numerous apps to help you do this, all you need is a blank piece of paper and a few colored pencils.&lt;/p&gt;
 
-&lt;p&gt;Let’s have fun in Vienna, vCommunity, take the time to meet new people and learn a whole lot about simplifying your data center with the enterprise cloud. You can also follow activities on Twitter by following Nutanix or following the conference hashtag #NEXTConf.&lt;/p&gt;
+&lt;p&gt;Follow these steps to build a mind map:&lt;/p&gt;
 
-&lt;p&gt;Are you attending .NEXT in Vienna, be sure to ping me on Twitter and let’s connect at the event. Do you have any tips to share when attending large conferences? share them in the comments below and thanks for reading.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Get a large enough blank paper with enough scope to create horizontal and vertical branches.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;At the center of the paper, write down your central idea. This maybe a project title or revision topic.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using your central idea as a keyword, think of the main ideas associated with it and draw thick branches that radiate away from it. Each branch represents a major topic around the central idea. Use different colors for each branch to create a better visual representation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From each thick branch, draw thinner branches radiating from each thick branch using the same color scheme to represent the subtopics that make up every main topic.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finally, draw the thinnest lines radiating from every subtopic, and list the details of each. Remember to use the same color as the main branch.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Along the length of each branch, write down keywords that are associated with each idea.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You may add symbols and images to enhance memory associations with each concept. Images are a powerful way of conveying an idea or message than words.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Oh, one thing I need to remember to bring is a European power converter – fingers crossed I don’t forget, but I know that’s where the power of the community will help!&lt;/p&gt;
+&lt;h2 id=&quot;benefits-of-mind-mapping&quot;&gt;Benefits of Mind Mapping&lt;/h2&gt;
+
+&lt;p&gt;Mind mapping can be used by professionals to enhance their project management skills or organize budgets. Mind maps are also useful for students who want to improve memory and study more efficiently.&lt;/p&gt;
+
+&lt;p&gt;The following are major advantages of using a mind map:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-boost-your-creativity&quot;&gt;1. Boost your creativity&lt;/h3&gt;
+
+&lt;p&gt;Mind maps are useful in generating new ideas and therefore increasing your creativity. A mind map helps you to sort and organize your thoughts and ideas. By thinking in a more organized manner, you will be able to avoid being overwhelmed by a flurry of ideas when brainstorming, which can create mind block and stop the flow of ideas. A mind map, therefore, acts as a memory dump which frees up your creativity.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-improve-memory&quot;&gt;2. Improve memory&lt;/h3&gt;
+
+&lt;p&gt;Mind maps help you categorize and organize ideas during a brainstorming session. It makes it the perfect tool to identify the relationships between different sets of data. A lot of information can be arranged graphically on a single piece of paper that shows the connection between each idea. By using colors and images, it becomes easier to remember information, which significantly enhances memory and retention.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-improve-productivity&quot;&gt;3. Improve productivity&lt;/h3&gt;
+
+&lt;p&gt;A mind map gives you a visual representation of your project, complete with all its interrelationships. The mind map at a glance shows you how different aspects of a project are connected and how the entire project condenses into one unit. This bird’s eye view of your project helps you to improve coordination and communication within your team, which significantly improves your productivity.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-mind-maps-are-adaptable&quot;&gt;4. Mind maps are adaptable&lt;/h3&gt;
+
+&lt;p&gt;Mind maps are highly versatile and can be used for practically any task that requires teamwork or organization. You can apply mind mapping to budgeting, time management, project management, studies or vacation planning.&lt;/p&gt;
+
+&lt;p&gt;Mind mapping is meant for anyone who wants to increase productivity, get better organized or improve memory and retention. It is a simple yet indispensable tool for ambitious professionals.&lt;/p&gt;
+
+&lt;p&gt;Do you use mind mapping? It’s a great tool that can also help with certification studying. Let me know if you do and if you prefer the pen and paper method or the online method. What’s you favorite mind map app? add to the comments down below and thanks for reading!&lt;/p&gt;
 </description>
         
-          <description>&lt;p&gt;This weekend I’ll be traveling to Vienna for the Nutanix .NEXT conference. I am super excited to get the chance to meet many folks that are part of the vCommunity. It’s not often I get the opportunity to go to Europe, so this will be special.&lt;/p&gt;
+          <description>&lt;p&gt;Developed in the 70s by the British psychologist, author, and public speaker &lt;a href=&quot;https://en.wikipedia.org/wiki/Tony_Buzan&quot;&gt;Tony Buzan&lt;/a&gt;, mind mapping is a great technique for increasing your productivity. Building a mind map is a simple way of turning ideas in your mind into a graphic representation.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sat, 05 Nov 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/vcommunity-nextconf-vienna/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/vcommunity-nextconf-vienna/</guid>
+        <pubDate>Wed, 29 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/mind-mapping-productivity-tool/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mind-mapping-productivity-tool/</guid>
         
         
       </item>
@@ -286,253 +331,293 @@
     
       
       <item>
-        <title>Microsoft Teams Closing the Gap With Slack</title>
-        <description>&lt;p&gt;Did Microsoft just launch a Slack competitor? You bet they did, and it’s only the beginning as Microsoft leverages their extensive Office 365 install base.&lt;/p&gt;
+        <title>Google Cloud Platform Offers ‘Always Free’ Tier</title>
+        <description>&lt;p&gt;Google recently concluded their Google Cloud Next conference in San Francisco with 10,000 folks in attendance. They made several announcements, and one in particular that caught my attention was the Google Cloud Platform &lt;a href=&quot;https://cloud.google.com/free/&quot;&gt;free tier&lt;/a&gt;. Google lengthened their free trial from 60 days to 12 months and introduced ‘Always Free’ products, which have non-expiring usage limits.&lt;/p&gt;
 
-&lt;p&gt;Microsoft Teams was announced on November 4 and it’s what Microsoft is describing as a chat-based workspace in Office 365. My understanding is that this is in preview at the moment, and it’s expected to be available first quarter in 2017.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;It looks like they are going head to head with Slack. Although Slack does have the lead, don’t count out Microsoft (… remember Netscape). Adding this feature to the user base for Office 365 will certainly help get them closer to the leader.&lt;/p&gt;
-
-&lt;h2 id=&quot;looking-for-threaded-chats-we-got-it&quot;&gt;Looking for threaded chats? We got it&lt;/h2&gt;
-&lt;p&gt;One difference between Teams and Slack – Threaded chat. That is one thing I hear from folks who use Slack a lot, and how it should have threaded conversations. Also, something that I’d like to see as well.&lt;/p&gt;
-
-&lt;p&gt;Teams (preview and final) will be available to Office 365 commercial customers with one of the following plans: Business Essentials, Business Premium, and Enterprise E1, E3, and E5. It’s also available on Windows, Mac, Android, iOS and the Web.&lt;/p&gt;
-
-&lt;h2 id=&quot;work-less-do-more-with-microsoft-flow&quot;&gt;Work less, do more with Microsoft Flow&lt;/h2&gt;
-&lt;p&gt;Microsoft has also recently taken on IFTTT with their version called Flow – Work Less, Do More. Which help you create automated workflows apps and services. You can also download the mobile app, in fact, if you do a search on Microsoft in the app store, it may surprise you just what they have available, especially the items from Microsoft Research.&lt;/p&gt;
-
-&lt;p&gt;It will be interesting to watch as Teams picks up steam. Are you a Slack user, what are your thoughts on Microsoft entering this market? Are threaded conversations important to you? Let me know your thoughts in the comments below, thanks for reading.&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;Did Microsoft just launch a Slack competitor? You bet they did, and it’s only the beginning as Microsoft leverages their extensive Office 365 install base.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Fri, 04 Nov 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/microsoft-teams-slack/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/microsoft-teams-slack/</guid>
-        
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Remove Distractions When Reading Online with Instapaper</title>
-        <description>&lt;p&gt;Two of my favorite tools for distraction free reading online are Safari Reader and Instapaper. At the moment it’s a 60/40 split for me, as my primary browser is Safari and it’s just so easy to use.&lt;/p&gt;
-
-&lt;p&gt;But don’t dismiss Instapaper just yet, there are several features and a recent announcement that have folks excited about it, but more on that later.&lt;/p&gt;
-
-&lt;p&gt;I enjoy the ‘pure’ feeling you get when reading on a Kindle, for example, no ads, no popups, no sidebar information that may catch your attention and pull you away from the article in front of you.&lt;/p&gt;
-
-&lt;p&gt;Most of the time when I want to read something and focus on it, I click the Safari Reader view which strips out everything from the web page except for the content and images related to the content. The reading experience becomes enjoyable again without the distraction; we have enough of those already.&lt;/p&gt;
-
-&lt;p&gt;You can also set a preferred font and text size when going to Reader view. Another cool thing about Reader view is that it’s available on iOS. Reader view is not a replacement for surfing but rather a way to read an individual page.&lt;/p&gt;
-
-&lt;h2 id=&quot;save-on-toner-when-printing&quot;&gt;Save on toner when printing?&lt;/h2&gt;
-&lt;p&gt;I will admit that when I need to print a page, and that’s not often, I switch to Reader view and then print. Printing using Reader view saves on toner, as I only print out the relevant material and not the ads, etc.&lt;/p&gt;
-
-&lt;p&gt;My other favorite tool for distraction free reading is Instapaper. When I am in a hurry or on the go, I usually clip and send my web page to Instapaper for reading at a later time. I then pick up my tablet or phone and being reading without all the clutter.&lt;/p&gt;
-
-&lt;p&gt;One thing to note, sometimes some images may not get included in the new rendering, but I suspect that has something to do with the original website itself.&lt;/p&gt;
-
-&lt;p&gt;I love both Instapaper and Safari Reader view – they both serve the same purpose of presenting the content in an enjoyable way to read. But wait, with Instapaper you get more!&lt;/p&gt;
-
-&lt;p&gt;Instapaper is available as a free or paid version, which they called Premium. The premium version offered several nice features that extended the product. But…&lt;/p&gt;
-
-&lt;h2 id=&quot;instapaper-premium-now-free-for-everyone&quot;&gt;Instapaper premium now free for everyone&lt;/h2&gt;
-&lt;p&gt;Good news! On Nov 1, Instapaper announced that they are offering the Premium version for free. I suspect this has to do with the recent acquisition of Instapaper by Pinterest.&lt;/p&gt;
-
-&lt;p&gt;Either way, this is great news for folks who love the product and a way to increase the adoption. Some of the features offered to everyone;&lt;/p&gt;
-
-&lt;p&gt;Full-text search for all articles
-Unlimited Notes
-Text-to-speech playlists
-Unlimited speed reading
-“Send to Kindle” via bookmarklet and mobile apps
-Kindle Digests of up to 50 articles&lt;/p&gt;
-
-&lt;p&gt;If you haven’t tried Instapaper, I suggest you give it a go, and I think you’ll enjoy it. It’d be nice if they could have Reader view in Google Chrome or even add that feature to Instapaper. That way you can read the article and if you decide to save for later, just hit a button.&lt;/p&gt;
-
-&lt;p&gt;There is another product called Readability that I used in the past (which has recently shutdown), but I find Safari Reader view and Instapaper work for me.&lt;/p&gt;
-
-&lt;p&gt;If you’ve tried Instapaper or Safari Reader, I’d love to hear about it in the comments below. If you use something similar, I’d also like to hear about it. Thanks for reading.&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;Two of my favorite tools for distraction free reading online are Safari Reader and Instapaper. At the moment it’s a 60/40 split for me, as my primary browser is Safari and it’s just so easy to use.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 02 Nov 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/remove-distractions-instapaper/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/remove-distractions-instapaper/</guid>
-        
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>How To Kanban The Easy Way, Use Trello</title>
-        <description>&lt;p&gt;I’ve written about Kanban in the past, but you wouldn’t know it since my WordPress site was wiped clean and I lost all my material. Of course, that just sets the stage for another blog post during this month on ‘How to backup your WordPress site.”&lt;/p&gt;
-
-&lt;p&gt;For those that are unfamiliar with Kanban, it’s pretty simple. Kanban is a visual display of work. It’s typically laid out on a board that everyone can see. It’s also broken out into categories that help map out the value stream.&lt;/p&gt;
-
-&lt;p&gt;Most Kanban boards have a ‘backlog’ state of items you need to address. A ‘Ready’ state, items that have been pulled in from backlog. A ‘To Do’ state, these are the tasks you are currently working on and finally a ‘Done’ state, where you place completed items.&lt;/p&gt;
-
-&lt;p&gt;You can get advanced with your boards like including a ‘waiting for’ state’ with is a helpful reminder to follow up and where you can visualize potential delays.&lt;/p&gt;
-
-&lt;h2 id=&quot;visualize-your-work-and-limit-your-wip&quot;&gt;Visualize your work and limit your (WIP)&lt;/h2&gt;
-&lt;p&gt;I am no expert at Kanban, but at the same time, it’s so simple that anyone can do it. You need to be aware of two rules with Kanban&lt;/p&gt;
-
-&lt;p&gt;Visualize your work&lt;br /&gt;
-Limit your work in progress (WIP)&lt;/p&gt;
-
-&lt;p&gt;If you can master those two items, I think you are on your way to getting control of the tasks you are facing and being more efficient with your time and energy.&lt;/p&gt;
-
-&lt;p&gt;Oh and don’t think limiting your work in progress means that you are doing less work, it helps focus on the work at hand.&lt;/p&gt;
-
-&lt;p&gt;I’ve mentioned my setup at home in the past.  I used large post-it notes called Big Pads up on the wall. I have two big pads, one which holds my backlog and the other that contains the states of play, for example ready, to do, done and waiting for.&lt;/p&gt;
-
-&lt;p&gt;Add each task on the board with smaller post-it notes and pull them along to the different category.&lt;/p&gt;
-
-&lt;h2 id=&quot;trello-is-made-for-kanban&quot;&gt;Trello is made for Kanban&lt;/h2&gt;
-&lt;p&gt;Now that was then, in today’s world software is king. I’ve transitioned to using some very cool tools online. At the moment my favorite tool for Kanban is Trello.&lt;/p&gt;
-
-&lt;p&gt;Trello has impressed me with how easy it is to use; the capabilities included in the product and how it stays in sync across all of my devices.&lt;/p&gt;
-
-&lt;p&gt;Trello is free so give it a try I think you’ll like it and there are tons of YouTube video to help you get started and find out how others are using it to be effective.&lt;/p&gt;
-
-&lt;h2 id=&quot;power-ups-boost-the-power-of-trello&quot;&gt;Power-Ups boost the power of Trello&lt;/h2&gt;
-&lt;p&gt;Trello also have what they call Power-Ups which are essentially integrations with other platforms. This is where you can really extend the power of Trello. One in particular I am interested in trying is the Burndown charts. These are typically used in sprint tracking but can help provide insights on backlog.&lt;/p&gt;
-
-&lt;p&gt;There are other software products and two that are top of mind, and you might find useful are LearnKit, Microsoft Planner and Kanbanize.&lt;/p&gt;
-
-&lt;p&gt;I want to highlight a recent entry into this space. I think it speaks to this growing market and that’s Microsoft Planner. It’s part of the Office 365 subscription if you have the following plans Office 365 Enterprise E1–E5, Business Essentials, Premium and Education subscription plans.&lt;/p&gt;
-
-&lt;p&gt;I would say it’s still ‘early days’ with Microsoft Planner. I’m sure they have a roadmap of features that they will be pushing out. I’m for one who is looking forward to that, especially a mobile app.&lt;/p&gt;
-
-&lt;p&gt;I encourage you to try out the products I mentioned. If you already use anyone of these products, I would love to hear about it in the comments below.&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;I’ve written about Kanban in the past, but you wouldn’t know it since my WordPress site was wiped clean and I lost all my material. Of course, that just sets the stage for another blog post during this month on ‘How to backup your WordPress site.”&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 02 Nov 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/Kanban-Easy-Way-Use-Trello/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Kanban-Easy-Way-Use-Trello/</guid>
-        
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>How The 12 Week Year is The New 12 Month Year</title>
-        <description>&lt;p&gt;I was never good at book reviews. I think it’s because I had a tendency always to go into details about the book instead of giving the reader an overview of what to expect from the book. So with that disclaimer, I will do my best in this review on achieving your goals.&lt;/p&gt;
-
-&lt;p&gt;I recently read a book titled – &lt;a href=&quot;https://tr.im/1SllN&quot;&gt;The 12 Week Year&lt;/a&gt;, Get more done in 12 weeks than other do in 12 months by Brian P. Moran and Michael Lennington. Needless to say, the title caught my attention and interest.&lt;/p&gt;
-
-&lt;p&gt;The idea behind the book is that the one factor that is holding people back from achieving their potential is not a lack of knowledge, intellect or information. But rather the ability to execute, the capacity to close the execution gap.&lt;/p&gt;
-
-&lt;h2 id=&quot;achieve-your-goals-one-week-at-a-time&quot;&gt;Achieve your goals one week at a time&lt;/h2&gt;
-&lt;p&gt;Essentially you are redefining your year as 12 weeks, followed by another 12 weeks, etc. Each 12 weeks stands on its own. Recall that end of year push, well that is now happening every 12 weeks. Thinking in terms of 12 week periods helps refocus your thoughts and makes each week count.&lt;/p&gt;
-
-&lt;p&gt;Start with a vision of what you want to accomplish, then break down your 12-week plan into a weekly plan that will drive your daily actions and outcomes.&lt;/p&gt;
-
-&lt;p&gt;You can complement this program by also using a Kanban board to help visualize the work in progress. I will explore a few other techniques in future blog blogs on driving outcomes, one model, in particular, I’ve been using is Objectives and Key Results (OKR). That’s for another day.&lt;/p&gt;
-
-&lt;h2 id=&quot;measurement-drives-the-execution-process&quot;&gt;Measurement drives the execution process&lt;/h2&gt;
-&lt;p&gt;I like the weekly scorecard, and measuring your result. Measuring captures both leading and lagging indicators. To help provide you with feedback for decision making on what’s working, what is not working.&lt;/p&gt;
-
-&lt;p&gt;The book does talk about setting a vision, which I think is important when developing your short term 12-week plans. It’s important to know what you are working toward.&lt;/p&gt;
-
-&lt;p&gt;The book walks you through developing your 12-week plan and even provides some templates for you to use. I ‘ve tried not to go into too much detail here, as I mentioned at the start of this post. I can get deep in the details at times, so I am just trying to give you a 30,000 feet overview.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-12-week-year-is-a-buy&quot;&gt;The 12 Week Year is a Buy&lt;/h2&gt;
-&lt;p&gt;I would recommend this book and would also be interested to hear from you, if you have read the book. What are your thoughts or if there is a productivity book that you read that you think the community could benefit from. Let me know in the comments below and thanks for reading.&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;I was never good at book reviews. I think it’s because I had a tendency always to go into details about the book instead of giving the reader an overview of what to expect from the book. So with that disclaimer, I will do my best in this review on achieving your goals.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 16 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/12-Week-Year/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/12-Week-Year/</guid>
-        
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>How to Accelerate Your Learning Using the Feynman Technique</title>
-        <description>&lt;p&gt;As a process for acquiring new knowledge or skills, learning is at the forefront of success in academia or business. Every field relies on great learners to acquire and advance knowledge, ideas, and skills.&lt;/p&gt;
-
-&lt;p&gt;As any student knows only too well, excelling in education requires good learning skills, which few people are naturally born with.&lt;/p&gt;
+&lt;p&gt;It can get a little confusing because the free tier is made up of two parts. A 12-month, $300 credit free trial and Always Free. Here is an excerpt from the Google Cloud Platform FAQ.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;If you can’t explain it simply, you don’t understand it well enough – Albert Einstein&lt;/p&gt;
+  &lt;p&gt;The 12-month, $300 free trial allows you to use any GCP product. Always Free allows you to try participating products for free up to their non-expiring usage limits, making it easy for you to test and develop with these products.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;However, the use of mental models has gone a long way into turning the average person into a great learner. If you struggle to understand difficult concepts, then you are not alone. Many highly successful people got to where they are by finding creative ways to overcome learning challenges.&lt;/p&gt;
+&lt;p&gt;When you sign up for the free trial, you will be asked to provide a credit card. You won’t be charged, and it’s used as a verification step.&lt;/p&gt;
 
-&lt;p&gt;The use of mental models is one of the simplest and most effective ways of mastering a complex subject in no time.&lt;/p&gt;
+&lt;p&gt;You should also be aware that your trial ends once the 12 months have elapsed or you’ve spent the $300 in credits whichever comes first. Your credits and days remaining are always on display in the Google Cloud Platform console.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-are-mental-models&quot;&gt;What Are Mental Models?&lt;/h2&gt;
-&lt;p&gt;Mental models are psychological representations of your thought processes about how the world works. It’s a powerful visualization tool which mentally maps real, imaginary, or hypothetical situations to make sense of how things work or relate to one another.&lt;/p&gt;
+&lt;h2 id=&quot;google-cloud-platform-always-free-services&quot;&gt;Google Cloud Platform ‘Always Free’ services&lt;/h2&gt;
 
-&lt;p&gt;Different types of mental models can help you think better, be more creative, solve problems and learn faster. One of the most useful mental models is the Feynman technique. It was created by the brilliant physicist Richard Feynman, whose pioneering work in quantum electrodynamics made a lasting impact on particle physics, quantum computing, and nanotechnology.&lt;/p&gt;
+&lt;p&gt;There are currently 15 services that are listed as Always Free. This includes Google Compute Engine, with 1 f1-micro VM instance per month. Google Cloud Storage, with 5 GB-months of Regional Storage and Google Container Engine, with a basic cluster of 5 nodes or fewer.&lt;/p&gt;
 
-&lt;p&gt;Richard Feynman was one of the most brilliant physicists of all time. He was given the Nobel Prize in 1965 for his work on the interaction of light and matter. Richard Feynman was also a philosopher, eloquent teacher, and a great thinker, whose admirers included Albert Einstein.&lt;/p&gt;
+&lt;p&gt;All of these are in the US regions only, which include us-east1, us-west1, and us-central1. Find more services on the Google Cloud Platform &lt;a href=&quot;https://cloud.google.com/free/&quot;&gt;free tier&lt;/a&gt; page.&lt;/p&gt;
 
-&lt;p&gt;Bill Gates referred to Feynman as “the greatest teacher I never had.” Many others admired his ability to explain complex concepts in a simple and easy to understand manner. Feynman’s lectures were mostly aimed at students with no prior knowledge of physics, using his unique ability to remove the mystery from complex scientific principles.&lt;/p&gt;
+&lt;p&gt;If you missed the conference and would like to get caught up, the Google Cloud folks have &lt;a href=&quot;https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR&quot;&gt;published&lt;/a&gt; their sessions and keynotes online.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-feynman-technique&quot;&gt;The Feynman Technique&lt;/h2&gt;
-&lt;p&gt;It is often said that if you cannot explain anything in simple terms, then you do not understand it completely. This is the logic behind the Feynman technique. Anyone can apply this mental model to practically any learning exercise&lt;/p&gt;
-
-&lt;p&gt;The Feynman technique consists of four simple steps as follows:&lt;/p&gt;
-
-&lt;h3 id=&quot;step-1-select-your-concept&quot;&gt;Step 1: Select Your Concept&lt;/h3&gt;
-&lt;p&gt;The first step is to choose the topic or concept that you want to study. Take a blank paper and write the topic at the top of the page.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-2-pretend-you-are-explaining-it-to-someone-else&quot;&gt;Step 2: Pretend You Are Explaining It To Someone Else&lt;/h3&gt;
-&lt;p&gt;In the simplest way possible, write down an explanation of the concept as if you are teaching it to a new student. Richard Feynman preferred using an explanation that a five-year-old can understand.&lt;/p&gt;
-
-&lt;p&gt;By doing this, you will have a better understanding of the concept and identify gaps in your learning. This is step will pinpoint areas where you do not have a firm grasp of the concept.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-3-refer-to-your-source-material-whenever-you-get-stuck&quot;&gt;Step 3: Refer To Your Source Material Whenever You Get Stuck&lt;/h3&gt;
-&lt;p&gt;Every time you cannot explain an idea, go back to your reference books or teacher and learn it all over again. Keep doing this until you can sufficiently explain the concept in simple terms.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-4-create-analogies&quot;&gt;Step 4: Create Analogies&lt;/h3&gt;
-&lt;p&gt;If your explanation is too lengthy, wordy, or confusing, create a simpler one or better yet, use analogies. Analogies help explain a concept using examples that are easy to relate to and understand.&lt;/p&gt;
-
-&lt;h2 id=&quot;benefits-of-the-feynman-technique&quot;&gt;Benefits Of The Feynman Technique&lt;/h2&gt;
-
-&lt;p&gt;Learn Faster: The Feynman technique will enable you to simplify complex ideas making it easier to learn difficult subjects faster.&lt;/p&gt;
-
-&lt;p&gt;Be More efficient: Countless students spend hours in the library trying to master complicated concepts without success. This proven technique can help you save time in your studies, reducing the period needed to understand anything.&lt;/p&gt;
-
-&lt;p&gt;Be More Productive: Increasing your learning ability will make you more productive at work or in your studies. You will master new skills and gain knowledge to help you increase your output.&lt;/p&gt;
-
-&lt;p&gt;Be More successful: Achieving higher grades is the first step to success in your career. A stellar academic record can open many doors and help you gain that coveted job position.&lt;/p&gt;
-
-&lt;p&gt;Be a Better communicator: The Feynman technique is indispensable when it comes to explaining difficult concepts to clients, colleagues or students. Possessing this ability makes you a better communicator especially if you are in marketing or leadership.&lt;/p&gt;
-
-&lt;p&gt;The Feynman technique is a useful tool for mastering hard to understand concepts. Its simplicity makes it widely applicable to scientific topics as well as everyday learning challenges. Increase your creativity, productivity, and knowledge by making it your preferred learning tool.&lt;/p&gt;
-
-&lt;p&gt;What study technique’s do you use when getting ready for a IT certification exam? or even getting ready to give a presentation to a local user group. Let me know in the comments below and thanks for reading.&lt;/p&gt;
+&lt;p&gt;Did you attend Google Cloud Next conference? What was your number one takeaway? Do you use the Google Cloud Platform, let me know in the comments below and thanks again for reading!&lt;/p&gt;
 </description>
         
-          <description>&lt;p&gt;As a process for acquiring new knowledge or skills, learning is at the forefront of success in academia or business. Every field relies on great learners to acquire and advance knowledge, ideas, and skills.&lt;/p&gt;
+          <description>&lt;p&gt;Google recently concluded their Google Cloud Next conference in San Francisco with 10,000 folks in attendance. They made several announcements, and one in particular that caught my attention was the Google Cloud Platform &lt;a href=&quot;https://cloud.google.com/free/&quot;&gt;free tier&lt;/a&gt;. Google lengthened their free trial from 60 days to 12 months and introduced ‘Always Free’ products, which have non-expiring usage limits.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sun, 15 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/learning-Feynman-Technique/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/learning-Feynman-Technique/</guid>
+        <pubDate>Sun, 19 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/google-cloud-platform-always-free/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/google-cloud-platform-always-free/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Evernote 8.0 Update Brings Welcome Changes to the App</title>
+        <description>&lt;p&gt;Ever since it was launched in 2008, Evernote has been one of the most popular note-taking apps on the market. In recent years, however, it has sort of lost its way. The core service started getting too bloated for its own good. It seemed like every new update only made matters worse. Many of the app’s competitors such as Microsoft OneNote took notice and began pumping out sleeker versions of what Evernote was trying to achieve.&lt;/p&gt;
+
+&lt;p&gt;Well, it seems like Evernote finally decided to turn a new leaf and re-announce its presence in the industry. The &lt;a href=&quot;https://blog.evernote.com/blog/2017/01/17/evernote-8-0/&quot;&gt;8.0 update&lt;/a&gt; is pretty much a full-fledged reboot. The main idea was to make everything faster and easier to get around. This simple concept harkens back to the app’s early days when it was far and above the best option on the market.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The first thing you’ll notice upon opening the app is the sleek new interface. As soon as the app loads, you will be greeted by a large green button that lets you make a new note in an instantaneous fashion. If you’d like to create a Reminder note or record audio and video, all you have to do is press the same button and drag it to the corresponding icon.&lt;/p&gt;
+
+&lt;p&gt;You can save your notes by entering the View mode or swiping the keyboard down. The next time you open Evernote, it will take you straight back to where you left off. That’s about all there is to it. Gone are the days of having to fight through the home screen to get to the meat of the app!&lt;/p&gt;
+
+&lt;p&gt;If you’d like to make your notes more visually distinctive, Evernote has got you covered. You now have access to a lot more styling and formatting options, including different font sizes, types and, most importantly – colors. The navigation bar also features some helpful new tools such as the square plus button (which lets you add audio files or photos without much fuss) and the camera button (which is fairly self-explanatory).&lt;/p&gt;
+
+&lt;h2 id=&quot;clean-design-makes-evernote-8-easier-to-use&quot;&gt;Clean design makes Evernote 8 easier to use&lt;/h2&gt;
+
+&lt;p&gt;Finding your content is also a simpler task when compared to the previous version of the app. Entering your notebook list and switching between different notebooks is very intuitive, and the note previews now come with helpful thumbnails. It’s up to you to choose the size of these images and whether you want to turn them on at all.&lt;/p&gt;
+
+&lt;p&gt;If you’re up to your neck in notes, you can either search your entire account by clicking the search tab or tap your note list to search a specific notebook. You might also want to tag your notes. Accessing your tags is now done simply by tapping the alarm clock icon.&lt;/p&gt;
+
+&lt;p&gt;Evernote Business users will have some additional reasons to download the new update. Your personal and business accounts are now more clearly separated, and switching between them has never been easier. Moving notes between accounts also require fewer hoops to jump through than before, though the process can still be somewhat intimidating for new users.&lt;/p&gt;
+
+&lt;p&gt;Despite all the improvements the update brings us, there are still a couple of features sorely missing from the app. For example, nested tags would help us organize our stuff in another meaningful way. This feature was last seen in Evernote 2.0, and it doesn’t seem like developers have any plans to bring it back, despite fans asking about it.&lt;/p&gt;
+
+&lt;h2 id=&quot;hard-not-to-be-impressed-with-the-update&quot;&gt;Hard not to be impressed with the update&lt;/h2&gt;
+
+&lt;p&gt;However, the current version of Evernote is dealing with some bigger issues. Many iOS users are having trouble running the app at all since the update was launched, and crashing on startup seems like a common occurrence. The 8.0.1 update that was launched almost immediately after the main update has done little to remedy the situation. It seems like the developers are working hard to get to the bottom of the issue. For now, users can try relaunching the app and reboot their devices; if the problem still persists, a full reinstall is always an option.&lt;/p&gt;
+
+&lt;p&gt;If we turn a blind eye to the launch issues, it’s hard not to be impressed with what the new version of Evernote has delivered. A fresh start is exactly what the app needed. It’s safe to say that the redesign has been a success. Nobody knows what the future holds, but right now, Evernote seems to have a leg up on the competition again.&lt;/p&gt;
+
+&lt;p&gt;Are you an Evernote user? What is your thought on the update and redesign? Please share in the comments below and as always thank you for reading.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;Ever since it was launched in 2008, Evernote has been one of the most popular note-taking apps on the market. In recent years, however, it has sort of lost its way. The core service started getting too bloated for its own good. It seemed like every new update only made matters worse. Many of the app’s competitors such as Microsoft OneNote took notice and began pumping out sleeker versions of what Evernote was trying to achieve.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 16 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/evernote-8-update-welcome-changes-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/evernote-8-update-welcome-changes-app/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>How To Tune Up Your Daily Workflow and Stop Wasting Time</title>
+        <description>&lt;p&gt;Keeping &lt;a href=&quot;http://techcrunch.com/2016/04/02/why-its-so-easy-to-ignore-your-to-do-list-app-but-get-distracted-by-twitter/&quot;&gt;productivity high&lt;/a&gt; is a daily struggle for many of us.&lt;/p&gt;
+
+&lt;p&gt;You’re not alone.&lt;/p&gt;
+
+&lt;p&gt;Fret not, there are clear and effective ways to improve your output.&lt;/p&gt;
+
+&lt;p&gt;Managing your daily workflow is a key approach to sustained productivity.&lt;/p&gt;
+
+&lt;p&gt;In this article, we’ll cover a couple of productivity tricks, some useful software and tools, and the importance of processes in guiding you through your day and work.&lt;/p&gt;
+
+&lt;h2 id=&quot;high-productivity-starts-with-you&quot;&gt;High productivity starts with you&lt;/h2&gt;
+
+&lt;p&gt;Here’s the thing – productivity is not controlled by a magic switch.&lt;/p&gt;
+
+&lt;p&gt;Counter to all the different things you might read online about how “this CEO improved their productivity 1000% with this one trick; doctors are baffled!”, the reality is much less miraculous.&lt;/p&gt;
+
+&lt;p&gt;Productivity starts with lifestyle and motivation.&lt;/p&gt;
+
+&lt;p&gt;I’m not a lifestyle coach, so I’m not going to break down your diet and tell you how many milligrams of B12 you should be consuming every day, but studies consistently show that basic lifestyle elements are crucial for productivity.&lt;/p&gt;
+
+&lt;p&gt;Sleep well and sleep at regular times. If you get enough sleep and it’s of a high quality then you’ll have &lt;a href=&quot;http://blog.trello.com/train-your-brain-to-be-more-productive/&quot;&gt;more energy and focus&lt;/a&gt; during the day. It’s not rocket science.&lt;/p&gt;
+
+&lt;p&gt;Unless you have a newborn baby. In which case it’s much more difficult than rocket science.&lt;/p&gt;
+
+&lt;p&gt;If you have a difficult time sleeping and getting up, try out some of the tools on the market which are designed to help. The app &lt;a href=&quot;https://blog.alarmmon.com/&quot;&gt;AlarmMon&lt;/a&gt; has a range of screeching alarms you can choose from and you can attach little games to the alarms. This means you’ll be woken up by the sound of a thousand demons and you’ll have to solve a little puzzle to shut them up.&lt;/p&gt;
+
+&lt;p&gt;You’ll be awake in no time.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Follow this up with staying hydrated and eating well and you’re halfway toward being a productive human being. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You can use some of Process Street’s built-in templates to help you manage your personal processes. These &lt;/span&gt;&lt;a href=&quot;https://www.process.st/checklists-for-life/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;checklists for life&lt;/span&gt;&lt;/a&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;include the &lt;/span&gt;&lt;a href=&quot;http://process.st/checklist/weekly-meal-planner/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;weekly meal planner&lt;/span&gt;&lt;/a&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;and the &lt;/span&gt;&lt;a href=&quot;https://www.process.st/checklist/daily-schedule-template/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;daily schedule template&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;These general day to day tasks are systems which you can plan and organize.&lt;/p&gt;
+
+&lt;p&gt;If you plan well and execute your plan accordingly, you’ll achieve what you set out to achieve. It’s that simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Implementing workflows into your life in a critical manner will help you organize and be better. It’s not just about using certain tools, but about changing your mentality and how you view and approach obstacles. Take a process first perspective.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;use-tech-to-optimize-your-time&quot;&gt;Use tech to optimize your time&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;There is a world of different tools out there which have been designed to assist you in becoming a better human being. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re going to run through a few of these, but I’ll leave this detailed list of &lt;/span&gt;&lt;a href=&quot;https://www.process.st/workflow-apps/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;36 workflow apps&lt;/span&gt;&lt;/a&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;here for those of you who want to dig a little deeper!&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;process-street&quot;&gt;Process Street&lt;/h3&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;First off, as it has already been mentioned, &lt;/span&gt;&lt;a href=&quot;http://process.st&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Process Street&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. This tool allows you to create templates and then run those templates as checklists. You can use it for yourself or run it across a team. Everything’s stored up in the cloud and it’s great for collaborative purposes.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to implement workflows into your life properly, being able to track and iterate them, then Process Street is a must have.&lt;/p&gt;
+
+&lt;h3 id=&quot;rescuetime&quot;&gt;RescueTime&lt;/h3&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Another handy tool to analyze how you spend your time is &lt;/span&gt;&lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;RescueTime&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. This app runs in the background on your computer or phone and quietly logs what you do. Then it feeds that information back to you with graphs and other kinds of pretty looking results. You can see how you really operate, rather than how you think you operate.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;For people who are scared they procrastinate too much but aren’t strong enough to admit it, RescueTime will show you the truth, the whole truth, and nothing but the truth. Can you handle the truth?&lt;/p&gt;
+
+&lt;h3 id=&quot;zapier&quot;&gt;Zapier&lt;/h3&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Are you automating your simple &lt;/span&gt;&lt;a href=&quot;https://www.process.st/business-process-automation-examples/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;time-consuming tasks&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;? No? Why not?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;With &lt;/span&gt;&lt;a href=&quot;https://www.process.st/business-process-automation-guide/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Zapier&lt;/span&gt;&lt;/a&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;you can finally say goodbye to data entry and all that other tosh. Zapier uses API calls to hook up with over 750 different apps, creating this huge network of webapps which can now speak to each other and work together.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Want to save responses from your Typeform into Google Sheets? Zapier. Want to launch a Process Street checklist by moving a Trello card into a different column? Zapier.&lt;/p&gt;
+
+&lt;p&gt;You’ll get more done in your day if you automate the little things.&lt;/p&gt;
+
+&lt;h3 id=&quot;focuswill&quot;&gt;Focus@will&lt;/h3&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;One of the tools popular across our team is &lt;/span&gt;&lt;a href=&quot;https://www.focusatwill.com/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Focus@will&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. This neat little productivity app has a catalogue of channels which play music to help you focus. Get rid of the lyrics and get some steady beats going. You can select different genres to suit your tastes.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;I jump at focus@will whenever I’m feeling low on energy and lacking in focus. This and coffee are my go to tools to remedy lethargy.&lt;/p&gt;
+
+&lt;h2 id=&quot;make-processes-and-do-more&quot;&gt;Make processes and do more&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;I’m a strong believer that you should &lt;/span&gt;&lt;a href=&quot;https://www.process.st/when-to-create-processes/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;make a process&lt;/span&gt;&lt;/a&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;for everything you do more than twice.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This allows you to find the best way to do something and then to repeat those best practices, again and again, every time you undertake the process.&lt;/p&gt;
+
+&lt;p&gt;A good process followed often will result in you knowing exactly how long a certain task should take. It very clearly lays out the different steps and drives you forward.&lt;/p&gt;
+
+&lt;p&gt;This allows you to plan the other elements of your day better too. The more you can map out your days through the logic of processes and workflows, the more you will get done.&lt;/p&gt;
+
+&lt;p&gt;The secret to productivity is not an avocado and mackerel sandwich for breakfast, nor is it 20 press ups in the middle of the office every hour, or any other strange suggestion.&lt;/p&gt;
+
+&lt;p&gt;The secret to productivity is taking yourself and your days seriously and planning them like you would any other important event.&lt;/p&gt;
+
+&lt;p&gt;What techniques do you use to help with staying on track and getting the most out of the day? Share your thoughts in the comment section below and thank for reading.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;Keeping &lt;a href=&quot;http://techcrunch.com/2016/04/02/why-its-so-easy-to-ignore-your-to-do-list-app-but-get-distracted-by-twitter/&quot;&gt;productivity high&lt;/a&gt; is a daily struggle for many of us.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 11 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/tune-daily-workflow-productivity/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/tune-daily-workflow-productivity/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>OpenStack Ocata Delivering Updates in Less Time</title>
+        <description>&lt;p&gt;OpenStack Ocata, is the 15th release of the open source software for building private and public clouds. This version brought a focus on stabilization, scalability, and performance. This version was also developed during a shorter release cycle of four months vs. the typical six-month cycle. My understanding is that this was a one-time event.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;For the last few years, we’ve seen containers making their way into the mainstream, and this release continues to grow support for the container ecosystem. Container-based application frameworks and deployment tools saw the most growth in the release cycle. As OpenStack COO Mark Collier told &lt;a href=&quot;http://tcrn.ch/2lGTdvN&quot;&gt;TechCrunch&lt;/a&gt;, the container projects are growing faster than the other projects.&lt;/p&gt;
+
+&lt;p&gt;Be sure to check out the other container related improvement in &lt;a href=&quot;http://bit.ly/2kWY9Q0&quot;&gt;Kolla&lt;/a&gt; (containerized OpenStack services), &lt;a href=&quot;http://bit.ly/2kX5FKK&quot;&gt;Kuryr&lt;/a&gt; (bridging container networking and storage with OpenStack) and &lt;a href=&quot;http://bit.ly/2kX6NxP&quot;&gt;Zun&lt;/a&gt; (container management). If you want to learn more about Kolla, read this – &lt;a href=&quot;http://bit.ly/2kX9P5d&quot;&gt;Getting started with Kolla&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is also a new Nova “placement” API that helps users intelligently allocate resources based on application needs, in addition to these;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Horizon dashboard now supports keystone-to-keystone federation as new os-profiler UI, which gives operators the ability to detect performance issues across OpenStack service&lt;/li&gt;
+  &lt;li&gt;Auto-provisioning for Keystone federated identity dynamically creates a project and assigns a federated user a role upon successful authentication&lt;/li&gt;
+  &lt;li&gt;Ironic bare metal service becomes more robust with networking and driver enhancements&lt;/li&gt;
+  &lt;li&gt;Zaqar messaging service added Swift object storage as a backend to easily leverage an existing Swift cluster without deploying another MongoDB or Redis cluster&lt;/li&gt;
+  &lt;li&gt;Greatly improved performance and CPU usage for Telemetry projects: storing millions of metrics per second is now possible using Ceilometer with Gnocchi storage engine&lt;/li&gt;
+  &lt;li&gt;Active/Active HA in Cinder service can now be implemented by drivers&lt;/li&gt;
+  &lt;li&gt;Congress governance framework now has policy language enhancements to enable network address operations for better network and security governance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pre-flight-check-with-ocata&quot;&gt;Pre-Flight Check with Ocata&lt;/h2&gt;
+
+&lt;p&gt;A useful and new command line option available is the “nova-status upgrade check” which will your OpenStack deployment and determine if you can upgrade to Ocata. It will also identify what actions must be taken before a successful and safe upgrade can happen.&lt;/p&gt;
+
+&lt;p&gt;OpenStack has seen a 20 percent increase in production deployments year-over-year, according to the latest OpenStack survey. These ‘pre-flight’ checks will give administrators a degree of comfort when introducing a new version.&lt;/p&gt;
+
+&lt;p&gt;Download &lt;a href=&quot;http://bit.ly/2kWWLNm&quot;&gt;OpenStack Ocata&lt;/a&gt; and give it a go. If you have experience with OpenStack, let me know your thoughts on the new release or if you have general thoughts on OpenStack, let me know if the comments below and as always thanks for reading!&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;OpenStack Ocata, is the 15th release of the open source software for building private and public clouds. This version brought a focus on stabilization, scalability, and performance. This version was also developed during a shorter release cycle of four months vs. the typical six-month cycle. My understanding is that this was a one-time event.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 25 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/openstack-ocata-delivering-updates-in-less-time/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/openstack-ocata-delivering-updates-in-less-time/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>5 Basecamp Integrations For Greater Productivity</title>
+        <description>&lt;p&gt;Basecamp is one of the best productivity tools available today.  Previously known as 37 Signals,  Basecamp is different from other cloud-based productivity tools due to its simplicity and ease of use. Basecamp makes it much easier to organize projects,  set goals,  track the progress of a team and above all,  increase productivity and collaboration. With Basecamp,  organizations no longer require endless meetings or back and forth emails to collaborate and communicate when working on a project.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;add-ons-increase-the-utility-of-basecamp&quot;&gt;Add-ons increase the utility of Basecamp&lt;/h2&gt;
+
+&lt;p&gt;Although some might prefer the extensive features in alternative apps such as Trello,  no app,  no matter how great, is perfect.  Every cloud-based productivity platform depends on integrations, add-ons, and other apps to unleash its full potential. Basecamp is no different.&lt;/p&gt;
+
+&lt;p&gt;The latest version of the app,  Basecamp 3, follows the minimalist mantra of previous releases.  Despite the revamp,  Basecamp 3 sticks to the developers’ aim to include only the most essential features that work for everyone.  The numerous add-ons available on the extras menu have fortunately compensated for the lack of advanced features found in other apps. These third-party integrations offer different features including analytics, mobility, and backup.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-basecamp-add-ons-to-increase-productivity&quot;&gt;5 Basecamp add-ons to increase productivity&lt;/h2&gt;
+
+&lt;p&gt;The type of add-ons you decide to use with Basecamp will depend on your specific requirements. With a wide selection available, picking the right Basecamp integrations to suit your needs is paramount.&lt;/p&gt;
+
+&lt;p&gt;However,  here are the top 5 Basecamp add-ons that are truly indispensable:&lt;/p&gt;
+
+&lt;h3 id=&quot;ganttify&quot;&gt;&lt;strong&gt;Ganttify&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Any project management guru knows how useful Gantt Charts can be.  Developed over two centuries ago Gantt charts are necessary for tracking project schedules.  It is a fantastic tool that enables you to see all your project tasks as they relate to set timelines or milestones. It allows you to understand the dependencies within your team and quickly identify and remove bottlenecks.&lt;/p&gt;
+
+&lt;p&gt;You can now convert your Basecamp task lists into intuitive Gantt charts by using &lt;a href=&quot;https://gantt-chart.com/&quot;&gt;Ganttify&lt;/a&gt;.  All it takes are three simple steps. Just go to Ganttify and create an account and once logged in,  authorize the Basecamp integration. You can then go to your Basecamp project and select the one you would like to turn into a Gantt chart. What’s more,  this integration service is completely free of charge.&lt;/p&gt;
+
+&lt;h3 id=&quot;easy-insight&quot;&gt;&lt;strong&gt;Easy Insight&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;One integration that significantly improves productivity and efficiency in Basecamp is &lt;a href=&quot;https://www.easy-insight.com/solutions/basecamp.html&quot;&gt;Easy Insight&lt;/a&gt;. Basecamp lacks a comprehensive reporting feature that can convert the data from Basecamp projects into highly visual charts and graphs. Easy Insight allows you to collect and consolidate data to create custom reports,  which can help you analyze productivity and improve efficiency.  The add-on is simple to use since you can drag and drop to create reports or export them to Excel, PDF,  and other formats.&lt;/p&gt;
+
+&lt;h3 id=&quot;zapier&quot;&gt;&lt;strong&gt;Zapier&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;We all use a multitude of applications to conduct business,  communicate,  store information or carry out tasks.  &lt;a href=&quot;https://zapier.com/zapbook/basecamp3/&quot;&gt;Zapier&lt;/a&gt; is the ideal Basecamp integration to automate all your project management tools such as Evernote and Trello, email services, Facebook, Google Calendar, or Google Sheets together with Basecamp.  Zapier facilitates integration with hundreds of online apps, making it the perfect add-on if you are looking to get more productivity out of Basecamp.  Sign up is free,  although some third-party apps may require a subscription before you can integrate them with Basecamp.&lt;/p&gt;
+
+&lt;h3 id=&quot;timecamp&quot;&gt;&lt;strong&gt;TimeCamp&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;One essential pillar of goal setting and productivity is time management.  You cannot increase efficiency and complete tasks on time if you cannot keep track of time.  Basecamp lacks a native time tracking feature, a problem easily solved by numerous integrations available from third parties.  One useful add-on is TimeCamp, which goes further than just adding a timer to every task and calculating how long you spent to complete it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.timecamp.com/&quot;&gt;TimeCamp&lt;/a&gt; also allows you to track billable hours on every project with a graphical timescale.  Furthermore,  you can use it to monitor productivity, manage time off and keep an eye on attendance.  You can also create invoices for clients within Basecamp.  Unlike other time tracking integrations such as Tick,  TimeCamp has a free version,  and the premium version only costs you $9 per month.&lt;/p&gt;
+
+&lt;h3 id=&quot;bridge-24&quot;&gt;&lt;strong&gt;Bridge 24&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Many apps such as Basecamp can be a bit rigid when it comes to manipulating data within them. &lt;a href=&quot;https://bridge24.com/basecamp/&quot;&gt;Bridge 24&lt;/a&gt; allows you to gain greater control of Basecamp data without compromising it.  It gives you the ability to view your data in Kanban board view,  Calendar view or Grid view.  You can also export Basecamp data to CSV or Excel format. The live connectivity between the two apps is seamless and ensures that you are using the most up-to-date data at all times.&lt;/p&gt;
+
+&lt;p&gt;These 5 Basecamp integrations will go a long way to boosting productivity and teamwork in your projects.  With these add-ons,  Basecamp transforms into a fantastic productivity tool.&lt;/p&gt;
+
+&lt;p&gt;Have you used Basecamp? Do you have any tips that could benefit the community, let me know in the comments below and thanks for reading and sharing.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;Basecamp is one of the best productivity tools available today.  Previously known as 37 Signals,  Basecamp is different from other cloud-based productivity tools due to its simplicity and ease of use. Basecamp makes it much easier to organize projects,  set goals,  track the progress of a team and above all,  increase productivity and collaboration. With Basecamp,  organizations no longer require endless meetings or back and forth emails to collaborate and communicate when working on a project.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 08 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/5-basecamp-integrations-productivity/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/5-basecamp-integrations-productivity/</guid>
         
         
       </item>
